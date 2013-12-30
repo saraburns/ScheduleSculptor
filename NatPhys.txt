@@ -1,0 +1,594 @@
+Course
+ANTH 209 - 01
+CRN
+22823
+Title
+Forensic Anthropology with Laboratory
+Credit Hours
+1
+Description
+The identification of human remains for criminological and political purposes is widespread. This course explores issues in the identification and interpretation of human bones including methods for determining sex, age, stature, and ancestry as well as for identifying pathologies and anomalies. The course will pay particular attention to those anatomical elements, both soft tissue and bones, that aid in the reconstruction of individuals and their lifestyles. In addition, the course explores search and recovery techniques, crime-scene analysis, the use of DNA in solving crimes, and the role of forensic anthropology in the investigation of mass fatalities from both accidents and human rights violations. It also addresses ballistics and the use of photography in forensic investigation. The course will include a weekly lab component focused on human osteology and skeletal analysis.
+Seats Available
+0
+Max. Enrollment
+40
+Prerequisite(s)
+None
+Distributions
+Natural and Physical Science
+Notes
+Does not fulfill the laboratory requirement.
+Instructor(s)
+Adam Van Arsdale
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Course
+ASTR 100 - 01
+CRN
+20523
+Title
+Life in the Universe
+Credit Hours
+1
+Description
+This course investigates the origin of life on the Earth and the prospects for finding life elsewhere in the cosmos, and begins with an overview of the Earth's place in the solar system and the universe. The course examines the early history of the Earth and the development of life, changes in the sun that affect the Earth, characteristics of the other objects in our solar system and their potential for supporting life, the detection of planets around stars other than the sun, and the search for extraterrestrial life. Some nighttime observing will be required; optionally, students may co-enroll in ASTR 102 for a lab.
+Course
+PHYS 106 - 02
+CRN
+20287
+Title
+Fundamentals of Electricity, Magnetism, and Optics with Laboratory
+Credit Hours
+1.25
+Description
+This second semester of classical physics concentrates on the fundamental forces of electricity and magnetism. The electric and magnetic forces are entirely responsible for the structures and interactions of atoms and molecules, the properties of all solids, and the structure and function of biological material. Our technological society is largely dependent on the myriad applications of the physics of electricity and magnetism, e.g., motors and generators, communications systems, and the architecture of computers. After developing quantitative descriptions of electricity and magnetism, we explore the relations between them, leading us to an understanding of light as an electromagnetic phenomenon. The course will consider both ray-optics and wave-optics descriptions of light. Laboratory exercises will emphasize electrical circuits, electronic measuring instruments, optics, and optical experiments.
+Seats Available
+13
+Max. Enrollment
+28
+Prerequisite(s)
+PHYS 104 and calculus at the level of MATH 115.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Notes
+PHYS 106 does not normally satisfy the prerequisites for PHYS 202 or PHYS 203 and does not count toward the major.
+Instructor(s)
+Kaca Bradonjic
+Meeting Time(s)
+MWTh - 09:50 am - 11:00 am Loc:
+Course
+PHYS 207 - 01
+CRN
+21296
+Title
+Intermediate Mechanics
+Credit Hours
+1
+Description
+The basic laws of Newtonian mechanics will be revisited in this course using more sophisticated mathematical tools. Special attention will be paid to harmonic oscillators, central forces, planetary orbits, and the motion of rigid bodies. Newton's laws will be applied to a simple continuous medium to obtain a wave equation as an approximation. Properties of mechanical waves will be discussed. Nonlinear dynamics and chaos will be introduced.
+Seats Available
+2
+Max. Enrollment
+15
+Prerequisite(s)
+PHYS 108, MATH 215.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Instructor(s)
+James Battat
+Meeting Time(s)
+TWF - 09:50 am - 11:00 am Loc:
+Course
+PHYS 118 - 01
+CRN
+22811
+Title
+First-Year Seminar: Physics of Music and Musical Acoustics
+Credit Hours
+1
+Description
+The connection between music and physics is both deep and wide. It extends from the mathematics underlying scales and musical structure to the physical basis of instrument design, our perception of sound, concert hall acoustics, and the digital production of music. This first-year seminar will provide opportunities for students to explore these connections in a variety of ways. In addition to seminar discussions there will be laboratory sessions with acoustic measurements and characterization of musical instruments, demonstrations and performances by the music faculty and staff, projects involving the construction of musical instruments, and a field trip to the Fisk Organ Company to learn how Wellesley College's own Opus 72 Fisk organ was designed and built.
+Seats Available
+0
+Max. Enrollment
+14
+Prerequisite(s)
+Open to first-year students only. Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Instructor(s)
+Theodore Ducas
+Meeting Time(s)
+Th - 01:30 pm - 04:30 pm Loc:
+Course
+BISC 214 - 01
+CRN
+21034
+Title
+Animal Behavior with Laboratory
+Credit Hours
+1.25
+Description
+In meeting the challenges of survival and reproduction, animals have evolved behaviors that can be spectacular and sometimes unpleasant. With an eye to how behaviors ultimately shape an animal's fitness, we will explore the aspects of life that make each animal's strategy unique, including communication, orientation, foraging, conflict and aggression, mating, parental care, and social life. Laboratories will expose students to the challenges of collecting, analyzing, interpreting, and presenting data on animal behavior.
+Seats Available
+0
+Max. Enrollment
+24
+Prerequisite(s)
+BISC 109 or BISC 111/BISC 111T/BISC 113, or permission of the instructor.
+Distributions
+Natural and Physical Science
+Instructor(s)
+David Ellerby,Heather Mattila
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc:
+Course
+CHEM 306 - 01
+CRN
+22293
+Title
+Seminar
+Credit Hours
+1
+Description
+Topic for 2013-14: Chemistry of the Heavens
+Astrochemistry is the study of chemical reactions of atoms, molecules, radicals, and ions in the gas phase and in the condensed phase in interstellar, planetary, and cometary environments. These chemical reactions result in the formation of new molecules ranging from simple diatomics such as molecular hydrogen to complex, prebiotic organic molecules. We will use the tools of chemistry and physics to explore fundamental questions, such as “Are ion-molecule reactions in the gas phase likely to be efficient in the interstellar medium, or do most of these complex organic species form on icy silicate dust grains during warm up, following exposure to low-energy UV light and/or high-energy cosmic radiation such as galactic cosmic rays?”
+Seats Available
+7
+Max. Enrollment
+24
+Prerequisite(s)
+CHEM 205 or CHEM 120.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Christopher Arumainayagam
+Meeting Time(s)
+T - 06:30 pm - 09:00 pm Loc:
+Seats Available
+0
+Max. Enrollment
+36
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement. Not open to students who have taken ASTR 100L [2011-12].
+Distributions
+Natural and Physical Science
+Notes
+Students wishing to satisfy the laboratory requirement must enroll in ASTR 102 in the same semester in which they are taking this course.
+Instructor(s)
+Wesley Watters
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc:
+Course
+BISC 111 - 01
+CRN
+20168
+Title
+Introductory Organismal Biology with Laboratory
+Credit Hours
+1.25
+Description
+A study of life, ranging from the physiology of organisms to the structure of ecosystems. The main themes of the course are evolution and biodiversity, form and function in plants and animals, and ecological interactions among organisms. The course provides the fundamental tools for exploration of organismal biology with the aim of enhancing conceptual understanding. Laboratories focus on experimental approaches to these topics and are shared with BISC 113. Either BISC 110/BISC 112 or BISC 111/BISC 111T/BISC 113 may be taken first.
+
+Seats Available
+0
+Max. Enrollment
+32
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement. Not open to students who have taken BISC 111T/BISC 113.
+Distributions
+Fulfills the Quantitative Reasoning overlay course requirement
+QRF
+Natural and Physical Science
+Instructor(s)
+Marianne Moore
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc:
+Course
+BISC 108 - 01
+CRN
+20015
+Title
+Environmental Horticulture with Laboratory
+Credit Hours
+1.25
+Description
+This course will examine how plants function, both as individual organisms and as critical members of ecological communities, with special emphasis on human uses of plants. Topics will include plant adaptations, reproduction, environmentally sound landscape practices, urban horticulture, and the use of medicinal plants. The laboratory involves extensive use of the greenhouses, experimental design, data collection and analysis, and field trips.
+Seats Available
+1
+Max. Enrollment
+28
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Kristina Jones
+Meeting Time(s)
+MTh - 08:30 am - 09:40 am Loc:
+Course
+BISC 104 - 01
+CRN
+22844
+Title
+Science or Science Fiction?
+Credit Hours
+1
+Description
+This course will examine the scientific facts behind phenomena portrayed in a variety of Hollywood and foreign movies. We will cover topics ranging from the definition and recreation of life, genetics and behavior to evolution and environmental issues. The course will include weekly screenings of movies outside of class time as well as lectures, assigned readings and discussions. While obtaining an introduction to key concepts in biology, students will also explore misconceptions about science and scientists that are perpetuated by these movies.
+Seats Available
+0
+Max. Enrollment
+32
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Martina Koniger
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Course
+BISC 207 - 01
+CRN
+21454
+Title
+The Biology of Plants with Laboratory
+Credit Hours
+1.25
+Description
+An introduction to experimental plant biology. Topics will include growth and development, stress physiology, plant defense, applications of genetic engineering to the study and improvement of plants, and the properties of medicinal plants. The project-oriented laboratory sessions will provide an introduction to some of the techniques currently employed in answering research questions ranging from the organismal to the cellular level.
+
+Seats Available
+5
+Max. Enrollment
+12
+Prerequisite(s)
+BISC 110/BISC 112 or BISC 111/BISC 111T/BISC 113 and permission of the instructor.
+Distributions
+Natural and Physical Science
+Instructor(s)
+T. Kaye Peterman
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+
+Course
+CHEM 102 - 01
+CRN
+20617
+Title
+Contemporary Problems in Chemistry with Laboratory
+Credit Hours
+1.25
+Description
+Topic for 2012-13: Understanding Drugs
+A study of a wide variety of drugs, both legal and illegal. The focus will be on how these molecules affect our minds and bodies based on an understanding of their biochemistry. Topics will include antibiotics, steroids, stimulants, intoxicants, narcotics, and hallucinogens. The history, discovery, development, testing, regulation and prohibition of these substances will also be considered. The laboratory will include synthesis and analysis of an analgesic and an intoxicant, plus the detection of drugs in our bodies and on currency.
+Seats Available
+0
+Max. Enrollment
+24
+Prerequisite(s)
+Open to all students except those who have taken any other chemistry course.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Paul Reisberg
+Meeting Time(s)
+MWTh - 11:10 am - 12:20 pm Loc:
+Course
+BISC 327 - 01
+CRN
+22851
+Title
+Seminar. Topics in Biodiversity
+Credit Hours
+1
+Description
+Topic for 2013-14: Conservation Biology
+This course addresses the preservation and maintenance of species, populations, and communities in today's rapidly changing environment. Lectures and discussions will focus on selected topics in conservation biology including measuring and monitoring biodiversity, the causes and consequences of species extinction, adaptation to change and anthropogenic evolution, ecosystem restoration, and relevant environmental policy. Course format includes lectures and critical discussion of current research. Each student will complete an independent project of her choosing on a relevant topic.
+Seats Available
+1
+Max. Enrollment
+12
+Prerequisite(s)
+Two units in biological sciences at the 200 level or above, or permission of the instructor.
+Distributions
+Natural and Physical Science
+Crosslisted Courses:
+ES 327 01 - Sem:Tpc: Conservation Biology
+Instructor(s)
+Nicholas Rodenhouse
+Meeting Time(s)
+W - 02:15 pm - 04:45 pm Loc:
+Course
+CHEM 205 - 02
+CRN
+20667
+Title
+Chemical Analysis and Equilibrium with Laboratory
+Credit Hours
+1.25
+Description
+This course builds on the principles introduced in CHEM 105, with an emphasis on chemical equilibrium and analysis, and their role in the chemistry of the environment. Topics include chemical reactions in aqueous solution with particular emphasis on acids and bases; solubility and complexation; electrochemistry; atmospheric chemistry; photochemistry and smog; global warming and acid deposition; sampling and separations; modeling of complex equilibrium and kinetic systems; statistical analysis of data; and solid state chemistry of ceramics, zeolites and new novel materials. The laboratory work includes additional experience with instrumental and noninstrumental methods of analysis, sampling, computational chemistry, and solution equilibria.
+Additional Information
+Supplemental instruction available.
+Seats Available
+1
+Max. Enrollment
+28
+Prerequisite(s)
+CHEM 105 or CHEM 105P and fulfillment of the basic skills component of the Quantitative Reasoning requirement. Not open to students who have taken CHEM 120.
+Distributions
+Mathematical Modeling
+QRF
+Natural and Physical Science
+Instructor(s)
+Julia Miwa
+Meeting Time(s)
+TWF - 09:50 am - 11:00 am Loc:
+Course
+CHEM 220 - 01
+CRN
+22852
+Title
+Principles of Biochemistry
+Credit Hours
+1
+Description
+An introduction to the chemical foundations of life processes, with focus on theory and applications relevant to medicine. Topics include bioenergetics, metabolism, and macromolecular structure. Some basic skills such as data analysis and understanding of the primary literature will be approached through in-class discussions and application to current biomedical problems. This course is suitable for students wanting an overview of biochemistry, but it will not contain the experimental introduction to biochemical methods and instrumentation laboratory required for some majors.
+Seats Available
+5
+Max. Enrollment
+24
+Prerequisite(s)
+CHEM 205, CHEM 211, CHEM 212, and BISC 110/112; or CHEM 120, CHEM 211, CHEM 212, and BISC 110/BISC 112.
+Distributions
+Natural and Physical Science
+Notes
+Does not count toward the minimum major in Chemistry. Not open to students who have completed CHEM 222 or CHEM/BIOC 223.
+Instructor(s)
+Adele Wolfson
+Meeting Time(s)
+MWTh - 08:30 am - 09:40 am Loc:
+Course
+NEUR 100 - 01
+CRN
+20914
+Title
+Brain, Behavior, and Cognition: An Introduction to Neuroscience
+Credit Hours
+1
+Description
+This course will provide a broad introduction to neuroscience, focusing on examples and approaches from cellular and molecular, cognitive, behavioral, systems, and computational neuroscience. The lecture aspect of the course will be accompanied by a 70-minute practicum in which students will engage directly in experimental neuroscience.
+Additional Information
+Supplemental instruction available.
+Seats Available
+1
+Max. Enrollment
+32
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None
+Distributions
+Epistemology and Cognition
+Natural and Physical Science
+Instructor(s)
+Michael Wiest
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Course
+GEOS 208 - 01
+CRN
+22446
+Title
+Oceanography
+Credit Hours
+1
+Description
+The Earth is an ocean planet. Covering 71 percent of the Earth's surface and holding 97 percent of the Earth's water, the oceans are perhaps our planet’s most distinctive feature. This course will address fundamental questions about the oceans such as, why do we have oceans and ocean basins? Why do we have ocean currents? How have the interactions among physical, chemical, and biological processes produced the ocean we have today? Why should we strive to learn more about the oceans, and what are the links between the oceans and Earth’s climate? In-class exercises, case studies, and data analysis will emphasize fundamental oceanographic processes and problem solving skills. A mandatory field trip to the coast will allow students to explore coastal processes in action.
+Seats Available
+5
+Max. Enrollment
+20
+Prerequisite(s)
+Any 100-level GEOS, ES, or BISC course, or permission of the instructor.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Elizabeth Davis
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc:
+Course
+GEOS 102 - 01
+CRN
+20690
+Title
+The Dynamic Earth with Laboratory
+Credit Hours
+1.25
+Description
+The Earth is a dynamic planet—driven by processes that operate on its surface and within. In this course we study these processes as well as interactions between the solid earth, the hydrosphere, the atmosphere, and the biosphere that together produce the environment we live in. Topics covered include the origin and history of the Earth, plate tectonics, the distribution of earthquakes and volcanoes, hydrology, landscape evolution, and global climate; these processes influence our lives daily. Laboratory exercises, project work, and local field trips provide hands-on opportunities to develop key concepts and hone observational and analytical skills.
+Seats Available
+9
+Max. Enrollment
+28
+Prerequisite(s)
+Not open to students who have taken GEOS 101, GEOS 103, or GEOS 104.
+Distributions
+Natural and Physical Science
+Notes
+This course no longer fulfills the Quantitative Reasoning Overlay course requirement.
+Instructor(s)
+Katrin Monecke
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Course
+NEUR 305 - 01
+CRN
+22337
+Title
+Glutamate Neurotransmission with Laboratory
+Credit Hours
+1.25
+Description
+Glutamate is the major excitatory neurotransmitter in the central nervous system. In this course, you will become familiar with the functions of glutamate in healthy neurotransmission, plasticity, and disease including stroke, epilepsy, schizophrenia, and drug abuse. In addition, you will continue to improve your ability to critically read scientific literature. This course is designed to be interactive, and lectures will be supplemented by in-class activities and discussions. In the laboratory portion of this course, you will have the opportunity to study the role of glutamate receptors in long-term potentiation, and study the role of glutamate receptor mutations on C. elegans behavior. Through these experiences you will improve your reading, critical thinking, writing, problem solving, and oral presentation skills.
+Seats Available
+4
+Max. Enrollment
+12
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+NEUR 200
+Distributions
+Epistemology and Cognition
+Natural and Physical Science
+Instructor(s)
+Deborah Bauer
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Course
+PHYS 104 - 01
+CRN
+23032
+Title
+Fundamentals of Mechanics with Laboratory
+Credit Hours
+1.25
+Description
+This course is a systematic introduction to Newtonian mechanics, which governs the motion of objects ranging from biological cells to galaxies. Primary concepts such as mass, force, energy, and momentum are introduced and discussed in depth. We will place emphasis on the conceptual framework and on using fundamental principles to analyze the everyday world. Topics include: Newton's Laws, conservation of energy, conservation of momentum, rotations, waves, and fluids. Concepts from calculus will be developed and used as needed. Laboratories introduce experimental approaches to these topics. Students with a strong background in mathematics or previous experience in physics should consider PHYS 107. May not be taken in addition to PHYS 107.
+Seats Available
+1
+Max. Enrollment
+28
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Instructor(s)
+William Quivers
+Meeting Time(s)
+MWTh - 11:10 am - 12:20 pm Loc:
+Course
+ES 102 - 01
+CRN
+20912
+Title
+Environment and Society: Addressing Climate Change
+Credit Hours
+1
+Description
+This course offers an interdisciplinary introduction to Environmental Studies, with a focus on climate change. Major concepts that will be examined include: the state of scientific research, the role of science, politics, and economics in environmental decision-making, and the importance of history, ethics, and justice in approaching climate change. The central aim of the course is to help students develop the interdisciplinary research skills necessary to pose questions, investigate problems, and develop strategies that will help us address our relationship to the environment. ES 101, ES 102, and ES 103 may be taken in any order.
+Seats Available
+11
+Max. Enrollment
+30
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Alden Griffith
+Meeting Time(s)
+MTh - 08:30 am - 09:40 am Loc:
+Course
+ES 214 - 01
+CRN
+23047
+Title
+Social Causes and Consequences of Environmental Problems
+Credit Hours
+1
+Description
+This course focuses on the social science explanations for why environmental problems are created, the impacts they have, the difficulties of addressing them, and the regulatory and other actions that succeed in mitigating them. Topics include: externalities and the politics of unpriced costs and benefits; collective action problems and interest-group theory; time horizons in decision-making; the politics of science, risk, and uncertainty; comparative political structures; and cooperation theory. Also addressed are different strategies for changing environmental behavior, including command and control measures, taxes, fees, and other market instruments, and voluntary approaches. These will all be examined across multiple countries and levels of governance.
+Seats Available
+11
+Max. Enrollment
+25
+Prerequisite(s)
+ES 102 or ES 103, or one course in political science, or permission of the instructor.
+Distributions
+Social and Behavioral Analysis
+Crosslisted Courses:
+POL2 214 01 - Soc Cause & Conseq Env Probs
+Instructor(s)
+Merrill Baker-Medard
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Course
+ASTR 223 - 01
+CRN
+22842
+Title
+Planetary Climates
+Credit Hours
+1
+Description
+We've all heard about recent and ongoing climate change on Earth. What about the climate 100 million years ago, or weather patterns on Venus and climate change on Mars? In this course, we'll explore the evolution of the climate system on four worlds in our solar system: the Earth, Mars, Venus, and Saturn's moon Titan. We'll examine how geologists learn about the history of Earth's climate and how it has changed over time, as well as the sources of modern climate change and its impact on life. The course will also explore the techniques that planetary scientists use to learn about the atmospheres and surface environments on other worlds.
+Seats Available
+0
+Max. Enrollment
+20
+Prerequisite(s)
+Any 100 level course in ASTR; or GEOS 101, GEOS 102, or GEOS 206; or ES 101; or permission of the instructor.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Notes
+Normally offered in alternate years. This course is also offered at the 300-level as ASTR 323/GEOS 323.
+Crosslisted Courses:
+ASTR 323 01 - Advanced Planetary Climates
+Instructor(s)
+Wesley Watters
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Course
+GEOS 316 - 01
+CRN
+22928
+Title
+Paleoseismology
+Credit Hours
+1
+Description
+Recent earthquake and tsunami events dramatically highlight the vulnerability of human populations and infrastructure to seismic hazards. Only a thorough understanding of the frequency and magnitude of such events will enable local communities to prepare for future disasters. The rapidly evolving field of paleoseismology tries to answer such questions as: Where do earthquakes occur? How large might they be? How frequent are they? In this seminar-style class we will discuss literature to examine primary and secondary earthquake-induced deformation in various geologic archives and under different stress regimes. Through exercises and research projects students will learn techniques to assess the seismic hazard and to prepare threatened communities.
+Seats Available
+8
+Max. Enrollment
+14
+Prerequisite(s)
+Any 200-level GEOS course, or permission of the instructor.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Katrin Monecke
+Meeting Time(s)
+Th - 01:30 pm - 04:00 pm Loc:
+Course
+ES 220 - 01
+CRN
+21650
+Title
+Environmental Limits and Conservation with Laboratory
+Credit Hours
+1.25
+Description
+The growing use of global resources challenges our ability to conserve resources themselves, as well as species, ecosystems, and environmental quality. This brings up fundamental questions regarding limits to the sustainability of human and natural systems. This course investigates these far-reaching concepts by examining topics such as fundamentals and implications of thermodynamics, energy and material flow through human and natural systems, conservation of resources and biodiversity, and natural resource management. We will also explore the role of science and technology in surmounting previous limits (e.g. energy consumption and agricultural yields), as well as the implications of inherent limits that may never be broken. Laboratory work will focus on quantitative skills and tools used to assess the sustainability of different systems.
+Seats Available
+5
+Max. Enrollment
+20
+Prerequisite(s)
+One of the following: ES 101, GEOS 101, GEOS 102, BISC 108, or permission of the instructor.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Instructor(s)
+Alden Griffith
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:

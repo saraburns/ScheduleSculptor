@@ -1,0 +1,2954 @@
+Category
+1
+Course
+ANTH 209
+CRN
+22823
+Title
+Forensic Anthropology with Laboratory
+Credit Hours
+1
+Description
+The identification of human remains for criminological and political purposes is widespread. This course explores issues in the identification and interpretation of human bones including methods for determining sex, age, stature, and ancestry as well as for identifying pathologies and anomalies. The course will pay particular attention to those anatomical elements, both soft tissue and bones, that aid in the reconstruction of individuals and their lifestyles. In addition, the course explores search and recovery techniques, crime-scene analysis, the use of DNA in solving crimes, and the role of forensic anthropology in the investigation of mass fatalities from both accidents and human rights violations. It also addresses ballistics and the use of photography in forensic investigation. The course will include a weekly lab component focused on human osteology and skeletal analysis.
+Seats Available
+0
+Max. Enrollment
+40
+Prerequisite(s)
+None
+Distributions
+Natural and Physical Science
+Notes
+Does not fulfill the laboratory requirement.
+Instructor(s)
+Adam Van Arsdale
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category 
+1
+Course
+ASTR 100
+CRN
+20523
+Title
+Life in the Universe
+Credit Hours
+1
+Description
+This course investigates the origin of life on the Earth and the prospects for finding life elsewhere in the cosmos, and begins with an overview of the Earth's place in the solar system and the universe. The course examines the early history of the Earth and the development of life, changes in the sun that affect the Earth, characteristics of the other objects in our solar system and their potential for supporting life, the detection of planets around stars other than the sun, and the search for extraterrestrial life. Some nighttime observing will be required; optionally, students may co-enroll in ASTR 102 for a lab.
+Seats Available
+1
+Max. Enrollment
+36
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement. Not open to students who have taken ASTR 100L [2011-12].
+Distributions
+Natural and Physical Science
+Notes
+Students wishing to satisfy the laboratory requirement must enroll in ASTR 102 in the same semester in which they are taking this course.
+Instructor(s)
+Wesley Watters
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc:
+Category
+4
+Course
+PHYS 207
+CRN
+21296
+Title
+Intermediate Mechanics
+Credit Hours
+1
+Description
+The basic laws of Newtonian mechanics will be revisited in this course using more sophisticated mathematical tools. Special attention will be paid to harmonic oscillators, central forces, planetary orbits, and the motion of rigid bodies. Newton's laws will be applied to a simple continuous medium to obtain a wave equation as an approximation. Properties of mechanical waves will be discussed. Nonlinear dynamics and chaos will be introduced.
+Seats Available
+2
+Max. Enrollment
+15
+Prerequisite(s)
+PHYS 108, MATH 215.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Instructor(s)
+James Battat
+Meeting Time(s)
+TWF - 09:50 am - 11:00 am Loc:
+Category
+3
+Course
+PHYS 118
+CRN
+22811
+Title
+First-Year Seminar: Physics of Music and Musical Acoustics
+Credit Hours
+1
+Description
+The connection between music and physics is both deep and wide. It extends from the mathematics underlying scales and musical structure to the physical basis of instrument design, our perception of sound, concert hall acoustics, and the digital production of music. This first-year seminar will provide opportunities for students to explore these connections in a variety of ways. In addition to seminar discussions there will be laboratory sessions with acoustic measurements and characterization of musical instruments, demonstrations and performances by the music faculty and staff, projects involving the construction of musical instruments, and a field trip to the Fisk Organ Company to learn how Wellesley College's own Opus 72 Fisk organ was designed and built.
+Seats Available
+0
+Max. Enrollment
+14
+Prerequisite(s)
+Open to first-year students only. Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Instructor(s)
+Theodore Ducas
+Meeting Time(s)
+Th - 01:30 pm - 04:30 pm Loc:
+Category
+3
+Course
+BISC 111
+CRN
+20168
+Title
+Introductory Organismal Biology with Laboratory
+Credit Hours
+1.25
+Description
+A study of life, ranging from the physiology of organisms to the structure of ecosystems. The main themes of the course are evolution and biodiversity, form and function in plants and animals, and ecological interactions among organisms. The course provides the fundamental tools for exploration of organismal biology with the aim of enhancing conceptual understanding. Laboratories focus on experimental approaches to these topics and are shared with BISC 113. Either BISC 110/BISC 112 or BISC 111/BISC 111T/BISC 113 may be taken first.
+Seats Available
+0
+Max. Enrollment
+32
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement. Not open to students who have taken BISC 111T/BISC 113.
+Distributions
+Fulfills the Quantitative Reasoning overlay course requirement
+QRF
+Natural and Physical Science
+Instructor(s)
+Marianne Moore
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc:
+Category
+3
+Course
+BISC 104
+CRN
+22844
+Title
+Science or Science Fiction?
+Credit Hours
+1
+Description
+This course will examine the scientific facts behind phenomena portrayed in a variety of Hollywood and foreign movies. We will cover topics ranging from the definition and recreation of life, genetics and behavior to evolution and environmental issues. The course will include weekly screenings of movies outside of class time as well as lectures, assigned readings and discussions. While obtaining an introduction to key concepts in biology, students will also explore misconceptions about science and scientists that are perpetuated by these movies.
+Seats Available
+0
+Max. Enrollment
+32
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Martina Koniger
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Category
+4
+Course
+BISC 207
+CRN
+21454
+Title
+The Biology of Plants with Laboratory
+Credit Hours
+1.25
+Description
+An introduction to experimental plant biology. Topics will include growth and development, stress physiology, plant defense, applications of genetic engineering to the study and improvement of plants, and the properties of medicinal plants. The project-oriented laboratory sessions will provide an introduction to some of the techniques currently employed in answering research questions ranging from the organismal to the cellular level.
+Seats Available
+5
+Max. Enrollment
+12
+Prerequisite(s)
+BISC 110/BISC 112 or BISC 111/BISC 111T/BISC 113 and permission of the instructor.
+Distributions
+Natural and Physical Science
+Instructor(s)
+T. Kaye Peterman
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+3
+Course
+CHEM 102
+CRN
+20617
+Title
+Contemporary Problems in Chemistry with Laboratory
+Credit Hours
+1.25
+Description
+  Topic for 2012-13: Understanding Drugs : A study of a wide variety of drugs, both legal and illegal. The focus will be on how these molecules affect our minds and bodies based on an understanding of their biochemistry. Topics will include antibiotics, steroids, stimulants, intoxicants, narcotics, and hallucinogens. The history, discovery, development, testing, regulation and prohibition of these substances will also be considered. The laboratory will include synthesis and analysis of an analgesic and an intoxicant, plus the detection of drugs in our bodies and on currency.
+Seats Available
+0
+Max. Enrollment
+24
+Prerequisite(s)
+Open to all students except those who have taken any other chemistry course.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Paul Reisberg
+Meeting Time(s)
+MWTh - 11:10 am - 12:20 pm Loc:
+Category
+4
+Course
+BISC 327
+CRN
+22851
+Title
+Seminar. Topics in Biodiversity
+Credit Hours
+1
+Description
+Topic for 2013-14: Conservation Biology: This course addresses the preservation and maintenance of species, populations, and communities in today's rapidly changing environment. Lectures and discussions will focus on selected topics in conservation biology including measuring and monitoring biodiversity, the causes and consequences of species extinction, adaptation to change and anthropogenic evolution, ecosystem restoration, and relevant environmental policy. Course format includes lectures and critical discussion of current research. Each student will complete an independent project of her choosing on a relevant topic.
+Seats Available
+1
+Max. Enrollment
+12
+Prerequisite(s)
+Two units in biological sciences at the 200 level or above, or permission of the instructor.
+Distributions
+Natural and Physical Science
+Crosslisted Courses:
+ES 327 01 - Sem:Tpc: Conservation Biology
+Instructor(s)
+Nicholas Rodenhouse
+Meeting Time(s)
+W - 02:15 pm - 04:45 pm Loc:
+Category
+4
+Course
+CHEM 205
+CRN
+20667
+Title
+Chemical Analysis and Equilibrium with Laboratory
+Credit Hours
+1.25
+Description
+This course builds on the principles introduced in CHEM 105, with an emphasis on chemical equilibrium and analysis, and their role in the chemistry of the environment. Topics include chemical reactions in aqueous solution with particular emphasis on acids and bases; solubility and complexation; electrochemistry; atmospheric chemistry; photochemistry and smog; global warming and acid deposition; sampling and separations; modeling of complex equilibrium and kinetic systems; statistical analysis of data; and solid state chemistry of ceramics, zeolites and new novel materials. The laboratory work includes additional experience with instrumental and noninstrumental methods of analysis, sampling, computational chemistry, and solution equilibria.
+Additional Information
+Supplemental instruction available.
+Seats Available
+1
+Max. Enrollment
+28
+Prerequisite(s)
+CHEM 105 or CHEM 105P and fulfillment of the basic skills component of the Quantitative Reasoning requirement. Not open to students who have taken CHEM 120.
+Distributions
+Mathematical Modeling
+QRF
+Natural and Physical Science
+Instructor(s)
+Julia Miwa
+Meeting Time(s)
+TWF - 09:50 am - 11:00 am Loc:
+Category
+4
+Course
+CHEM 220
+CRN
+22852
+Title
+Principles of Biochemistry
+Credit Hours
+1
+Description
+An introduction to the chemical foundations of life processes, with focus on theory and applications relevant to medicine. Topics include bioenergetics, metabolism, and macromolecular structure. Some basic skills such as data analysis and understanding of the primary literature will be approached through in-class discussions and application to current biomedical problems. This course is suitable for students wanting an overview of biochemistry, but it will not contain the experimental introduction to biochemical methods and instrumentation laboratory required for some majors.
+Seats Available
+5
+Max. Enrollment
+24
+Prerequisite(s)
+CHEM 205, CHEM 211, CHEM 212, and BISC 110/112; or CHEM 120, CHEM 211, CHEM 212, and BISC 110/BISC 112.
+Distributions
+Natural and Physical Science
+Notes
+Does not count toward the minimum major in Chemistry. Not open to students who have completed CHEM 222 or CHEM/BIOC 223.
+Instructor(s)
+Adele Wolfson
+Meeting Time(s)
+MWTh - 08:30 am - 09:40 am Loc:
+Category
+2
+Course
+GEOS 208 
+CRN
+22446
+Title
+Oceanography
+Credit Hours
+1
+Description
+The Earth is an ocean planet. Covering 71 percent of the Earth's surface and holding 97 percent of the Earth's water, the oceans are perhaps our planet’s most distinctive feature. This course will address fundamental questions about the oceans such as, why do we have oceans and ocean basins? Why do we have ocean currents? How have the interactions among physical, chemical, and biological processes produced the ocean we have today? Why should we strive to learn more about the oceans, and what are the links between the oceans and Earth’s climate? In-class exercises, case studies, and data analysis will emphasize fundamental oceanographic processes and problem solving skills. A mandatory field trip to the coast will allow students to explore coastal processes in action.
+Seats Available
+5
+Max. Enrollment
+20
+Prerequisite(s)
+Any 100-level GEOS, ES, or BISC course, or permission of the instructor.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Elizabeth Davis
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc:
+Category
+1
+Course
+GEOS 102 
+CRN
+20690
+Title
+The Dynamic Earth with Laboratory
+Credit Hours
+1.25
+Description
+The Earth is a dynamic planet—driven by processes that operate on its surface and within. In this course we study these processes as well as interactions between the solid earth, the hydrosphere, the atmosphere, and the biosphere that together produce the environment we live in. Topics covered include the origin and history of the Earth, plate tectonics, the distribution of earthquakes and volcanoes, hydrology, landscape evolution, and global climate; these processes influence our lives daily. Laboratory exercises, project work, and local field trips provide hands-on opportunities to develop key concepts and hone observational and analytical skills.
+Seats Available
+9
+Max. Enrollment
+28
+Prerequisite(s)
+Not open to students who have taken GEOS 101, GEOS 103, or GEOS 104.
+Distributions
+Natural and Physical Science
+Notes
+This course no longer fulfills the Quantitative Reasoning Overlay course requirement.
+Instructor(s)
+Katrin Monecke
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category
+3
+Course
+PHYS 104 
+CRN
+23032
+Title
+Fundamentals of Mechanics with Laboratory
+Credit Hours
+1.25
+Description
+This course is a systematic introduction to Newtonian mechanics, which governs the motion of objects ranging from biological cells to galaxies. Primary concepts such as mass, force, energy, and momentum are introduced and discussed in depth. We will place emphasis on the conceptual framework and on using fundamental principles to analyze the everyday world. Topics include: Newton's Laws, conservation of energy, conservation of momentum, rotations, waves, and fluids. Concepts from calculus will be developed and used as needed. Laboratories introduce experimental approaches to these topics. Students with a strong background in mathematics or previous experience in physics should consider PHYS 107. May not be taken in addition to PHYS 107.
+Seats Available
+1
+Max. Enrollment
+28
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Instructor(s)
+William Quivers
+Meeting Time(s)
+MWTh - 11:10 am - 12:20 pm Loc:
+Category 
+1
+Course
+ES 102 
+CRN
+20912
+Title
+Environment and Society: Addressing Climate Change
+Credit Hours
+1
+Description
+This course offers an interdisciplinary introduction to Environmental Studies, with a focus on climate change. Major concepts that will be examined include: the state of scientific research, the role of science, politics, and economics in environmental decision-making, and the importance of history, ethics, and justice in approaching climate change. The central aim of the course is to help students develop the interdisciplinary research skills necessary to pose questions, investigate problems, and develop strategies that will help us address our relationship to the environment. ES 101, ES 102, and ES 103 may be taken in any order.
+Seats Available
+11
+Max. Enrollment
+30
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Alden Griffith
+Meeting Time(s)
+MTh - 08:30 am - 09:40 am Loc:
+Category
+2
+Course
+ES 214 
+CRN
+23047
+Title
+Social Causes and Consequences of Environmental Problems
+Credit Hours
+1
+Description
+This course focuses on the social science explanations for why environmental problems are created, the impacts they have, the difficulties of addressing them, and the regulatory and other actions that succeed in mitigating them. Topics include: externalities and the politics of unpriced costs and benefits; collective action problems and interest-group theory; time horizons in decision-making; the politics of science, risk, and uncertainty; comparative political structures; and cooperation theory. Also addressed are different strategies for changing environmental behavior, including command and control measures, taxes, fees, and other market instruments, and voluntary approaches. These will all be examined across multiple countries and levels of governance.
+Seats Available
+11
+Max. Enrollment
+25
+Prerequisite(s)
+ES 102 or ES 103, or one course in political science, or permission of the instructor.
+Distributions
+Social and Behavioral Analysis
+Crosslisted Courses:
+POL2 214 01 - Soc Cause & Conseq Env Probs
+Instructor(s)
+Merrill Baker-Medard
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category
+2
+Course
+ASTR 223
+CRN
+22842
+Title
+Planetary Climates
+Credit Hours
+1
+Description
+We've all heard about recent and ongoing climate change on Earth. What about the climate 100 million years ago, or weather patterns on Venus and climate change on Mars? In this course, we'll explore the evolution of the climate system on four worlds in our solar system: the Earth, Mars, Venus, and Saturn's moon Titan. We'll examine how geologists learn about the history of Earth's climate and how it has changed over time, as well as the sources of modern climate change and its impact on life. The course will also explore the techniques that planetary scientists use to learn about the atmospheres and surface environments on other worlds.
+Seats Available
+0
+Max. Enrollment
+20
+Prerequisite(s)
+Any 100 level course in ASTR; or GEOS 101, GEOS 102, or GEOS 206; or ES 101; or permission of the instructor.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Notes
+Normally offered in alternate years. This course is also offered at the 300-level as ASTR 323/GEOS 323.
+Crosslisted Courses:
+ASTR 323 01 - Advanced Planetary Climates
+Instructor(s)
+Wesley Watters
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Category
+7
+Course
+CS 110
+CRN
+20016
+Title
+Computer Science and the Internet
+Credit Hours
+1
+Description
+This course explains the basics of how the Internet works and how to build a website. Topics include client-server architecture; structuring Web pages with HTML, CSS, and JavaScript; the representation of colors, images, and sound on the computer; encryption; cookies; and CGI forms. We also discuss accessibility, copyright, intellectual property, and critical thinking in the context of the Internet. The required project models most phases of the standard software lifecycle. Students are introduced to programming by building an interactive website using JavaScript. Students are required to attend an additional 70-minute discussion section each week.
+Seats Available
+0
+Max. Enrollment
+30
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None. No prior background with computers is expected.
+Distributions
+Mathematical Modeling
+Instructor(s)
+Eniana Mustafaraj
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+7
+Course
+CS 111
+CRN
+20053
+Title
+Computer Programming and Problem Solving
+Credit Hours
+1
+Description
+An introduction to problem solving through computer programming. Students learn how to read, modify, design, debug, and test algorithms that solve problems. Programming concepts include control structures, data structures, abstraction, recursion, modularity, and object-oriented design. Students explore these concepts in the context of interactive programs involving graphics and user interfaces. using the java Programming language. Students are required to attend an additional two-hour laboratory section each week. Required for students who wish to major or minor in computer science or elect more advanced courses in the field.
+Seats Available
+1
+Max. Enrollment
+25
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None. No prior background with computers is expected.
+Distributions
+Does not satisfy the laboratory requirement
+Mathematical Modeling
+Notes
+Does not fulfill the laboratory requirement.
+Instructor(s)
+Rhys Price Jones
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc:
+Category
+7
+Course
+CS 220
+CRN
+22885
+Title
+Human-Computer Interaction
+Credit Hours
+1
+Description
+Human-Computer Interaction is one of the areas that have transformed the way we use computers in the last 30 years. Topics include methodology for designing and testing user interfaces, interaction styles (command line, menus, graphical user interfaces, virtual reality, tangible user interfaces), interaction techniques (including use of voice, gesture, eye movements), design guidelines, and user interface software tools. Students will design a user interface, program a prototype, and test the results for usability.
+Seats Available
+0
+Max. Enrollment
+18
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+One of CS 110, CS 111, CS 112, CS 117, CS 118 [2012-13]
+Distributions
+Mathematical Modeling
+Instructor(s)
+Orit Shaer
+Meeting Time(s)
+MTh - 02:50 pm - 04:00 pm Loc:
+Category
+8
+Course
+CS 231
+CRN
+21002
+Title
+Fundamental Algorithms
+Credit Hours
+1
+Description
+An introduction to the design and analysis of fundamental algorithms. General techniques covered: divide-and-conquer algorithms, dynamic programming, greediness, probabilistic algorithms. Topics include: sorting, searching, graph algorithms, compression, cryptography, computational geometry, and NP-completeness.
+Seats Available
+0
+Max. Enrollment
+25
+Prerequisite(s)
+CS 230 and either MATH 225 or permission of the instructor.
+Distributions
+Mathematical Modeling
+Instructor(s)
+Panagiotis Metaxas
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+1
+Course
+ENGR 160
+CRN
+23082
+Title
+Fundamentals of Engineering
+Credit Hours
+1
+Description
+Engineering is about combining ideas from mathematics, physics, computer science, and many other fields to design objects and systems that serve human needs. This project-based course introduces the big ideas of engineering and prepares students for taking additional engineering courses at Olin College or MIT. Topics include: the design and construction of mechanisms using rapid prototyping tools such as laser cutters, 3D printers, and computer-aided design software (SolidWorks); modeling and controlling physical systems using the MATLAB and Simulink programming environments; and feedback and control using digital electronics (microcontrollers).
+Seats Available
+8
+Max. Enrollment
+18
+Prerequisite(s)
+PHYS 107 or the equivalent, or by permission of the instructors.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Crosslisted Courses:
+EXTD 160 01 - Fundamentals of Engineering
+Instructor(s)
+Amy Banzaert
+Meeting Time(s)
+TF - 01:30 pm - 04:00 pm Loc:
+Category
+5
+Course
+MATH 101
+CRN
+20579
+Title
+Reasoning with Data: Elementary Applied Statistics
+Credit Hours
+1
+Description
+An introduction to the fundamental ideas and methods of statistics for analyzing data. Topics include descriptive statistics, basic probability, inference, and hypothesis testing. Emphasis on understanding the use and misuse of statistics in a variety of fields, including medicine and both the physical and social sciences. This course is intended to be accessible to those students who have not yet had calculus.
+Seats Available
+0
+Max. Enrollment
+25
+Prerequisite(s)
+Fulfillment of the basic skills component of the Quantitative Reasoning requirement. Not open to students who have completed MATH 205, except by permission of the instructor; such students should consider taking MATH 220 instead. Not open to students who have taken or are taking MATH 101Z, POL 199, QR 180, ECON 103/SOC 190, or PSYC 205.
+Distributions
+Fulfills the Quantitative Reasoning overlay course requirement
+QRF
+Mathematical Modeling
+Instructor(s)
+Jonathan Tannenhauser
+Meeting Time(s)
+TWF - 08:30 am - 09:40 am Loc:
+Category
+5
+Course
+MATH 116
+CRN
+20036
+Title
+Calculus II
+Credit Hours
+1
+Description
+The course begins with applications and techniques of integration. It probes notions of limit and convergence and adds techniques for finding limits. Half of the course covers infinite sequences and series, where the basic question is, What meaning can we attach to a sum with infinitely many terms and why might we care? The course can help students improve their ability to reason abstractly and also teaches important computational techniques. Topics include integration techniques, l'H™pital's rule, improper integrals, geometric and other applications of integration, theoretical basis of limits and continuity, infinite series, power series, and Taylor series. MATH 116 is the appropriate first course for many students who have had AB calculus in high school.
+Seats Available
+8
+Max. Enrollment
+25
+Prerequisite(s)
+MATH 115 or the equivalent. Not open to students who have completed MATH 120.
+Distributions
+Mathematical Modeling
+Instructor(s)
+Helen Wang
+Meeting Time(s)
+MWTh - 08:30 am - 09:40 am Loc:
+Category
+5
+Course
+MATH 206
+CRN
+21695
+Title
+Linear Algebra
+Credit Hours
+1
+Description
+Linear algebra is one of the most beautiful subjects in the undergraduate mathematics curriculum. It is also one of the most important with many possible applications. In this course, students learn computational techniques that have widespread applications in the natural and social sciences as well as in industry, finance, and management. There is also a focus on learning how to understand and write mathematical proofs and an emphasis on improving mathematical style and sophistication. Topics include vector spaces, subspaces, linear independence, bases, dimension, inner products, linear transformations, matrix representations, range and null spaces, inverses, and eigenvalues.
+Additional Information
+Supplemental instruction available.
+Seats Available
+0
+Max. Enrollment
+25
+Prerequisite(s)
+MATH 205 or MATH 215; or, with permission of the instructor, MATH 116, MATH 120, or the equivalent. At most two of the three courses MATH 206, MATH 210, and MATH 215 can be counted toward the major or minor.
+Distributions
+Mathematical Modeling
+Instructor(s)
+Karen Lange
+Meeting Time(s)
+MWTh - 08:30 am - 09:40 am Loc:
+Category
+6
+Course
+MATH 249
+CRN
+22948
+Title
+Fourier Analysis and Partial Differential Equations
+Credit Hours
+1
+Description
+How does an MP3 file achieve 91 percent compression yet still sound identical to the uncompressed song? Why does heat flow from hot to cold? How do airplane wings generate lift? These questions can be answered by studying partial differential equations (PDEs). This course will rigorously develop Fourier series and transforms and apply them to solve PDEs, including those modeling wave motion, heat flow, and fluid flow. Topics include Fourier series and transforms, separation of variables, the heat, wave, Laplace, and Euler equations; both theory and problem-solving will be included.
+Seats Available
+17
+Max. Enrollment
+25
+Prerequisite(s)
+MATH 205
+Distributions
+Mathematical Modeling
+Instructor(s)
+Oscar Fernandez
+Meeting Time(s)
+MWTh - 11:10 am - 12:20 pm Loc:
+Category
+6
+Course
+MATH 325
+CRN
+22950
+Title
+Graph Theory
+Credit Hours
+1
+Description
+Graph Theory has origins both in recreational mathematics problems (i.e., puzzles and games) and as a tool to solve practical problems in many areas of society. Topics covered will include trees and distance, connectivity and paths, network flow, graph coloring, directed graphs and tournaments. In addition, students will gain a sense of what it means to do research in graph theory.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+MATH 225 and a 300-level course in Math or Computer Science.
+Distributions
+Mathematical Modeling
+Notes
+Majors can fulfill the major presentation requirement in this course in 2013-14. Normally offered in alternate years.
+Instructor(s)
+Ann Trenk
+Meeting Time(s)
+TWF - 08:30 am - 09:40 am Loc:
+Category
+8
+Course
+CS 242
+CRN
+22886
+Title
+Computer Networks
+Credit Hours
+1
+Description
+A systems-oriented approach to data networks, including a theoretical discussion of common networking problems and an examination of modern networks and protocols. Topics include point-to-point links, packet switching, internet protocols, end-to-end protocols, congestion control, and security. Projects may include client-server applications and network measurement tools.
+Seats Available
+0
+Max. Enrollment
+35
+Prerequisite(s)
+CS 230 or permission of the instructor.
+Distributions
+Mathematical Modeling
+Notes
+Normally offered in alternate years.
+Instructor(s)
+Randy Shull
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc:
+Category
+8
+Course
+CS 251
+CRN
+20066
+Title
+Theory of Programming Languages
+Credit Hours
+1
+Description
+This course offers an introduction to the dimensions of modern programming languages. Covers major programming paradigms: function-oriented, imperative, object-oriented, and logic-oriented. Dimensions include syntax, naming, state, data, control, concurrency, nondeterminism, and types. These dimensions are explored via mini-language interpreters written in OCaml, Scheme, and Haskell that students experiment with and extend.
+Seats Available
+4
+Max. Enrollment
+30
+Prerequisite(s)
+CS 230 or permission of the instructor.
+Distributions
+Mathematical Modeling
+Instructor(s)
+Randy Shull
+Meeting Time(s)
+TWF - 08:30 am - 09:40 am Loc:
+Category
+8
+Course
+CS 304
+CRN
+22887
+Title
+Databases with Web Interfaces
+Credit Hours
+1
+Description
+A study of the three-layer architecture commonly used for Web-based applications such as e-commerce sites. We will learn to model and design databases using entity-relationship diagrams, and the Standard Query Language (SQL) for managing databases. We will learn PHP, CGI/Python, and Java Servlets, which are three important technologies for web-based architectures. We will also discuss performance, reliability, and security issues. Finally, we will create dynamic websites driven by database entries.
+Seats Available
+0
+Max. Enrollment
+25
+Prerequisite(s)
+CS 230 or permission of the instructor.
+Distributions
+Mathematical Modeling
+Instructor(s)
+Scott Anderson
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category
+8
+Course
+CS 349
+CRN
+22888
+Title
+Advanced Topics in Computer Science
+Credit Hours
+1
+Description
+Topic for 2013-14: Quantifying Data Privacy : Privacy is recognized as a fundamental human right, and this recognition is increasingly being extended to people's data. Yet, there is vigorous debate and disagreement on the meaning of data privacy and how to preserve it. This course is an in-depth study into how computer scientists quantify privacy, how dealing with data necessitates such a consideration, what are good notions of data privacy and how we can design technologies and algorithms that fulfill such notions.
+Seats Available
+5
+Max. Enrollment
+25
+Prerequisite(s)
+CS 230 and MATH 225 or permission of the instructor
+Distributions
+Mathematical Modeling
+Instructor(s)
+Darakhshan Mir
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc:
+Category
+7
+Course
+CS 230
+CRN
+20062
+Title
+Data Structures
+Credit Hours
+1
+Description
+An introduction to techniques and building blocks for organizing large programs. Topics include: modules, abstract data types, recursion, algorithmic efficiency, and the use and implementation of standard data structures and algorithms, such as lists, trees, graphs, stacks, queues, priority queues, tables, sorting, and searching. Students become familiar with these concepts through weekly programming assignments using the Java programming language. Students are required to attend an additional two-hour laboratory section each week.
+Seats Available
+0
+Max. Enrollment
+22
+Prerequisite(s)
+CS 111 or CS 118 [2012-13] or permission of the instructor. Students who received a grade of C+ or lower in CS 111 or CS 118 [2012-13] must contact the instructor before enrolling.
+Distributions
+Does not satisfy the laboratory requirement
+Mathematical Modeling
+Notes
+Does not fulfill the laboratory requirement.
+Instructor(s)
+Orit Shaer
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category
+7
+Course
+CS 112
+CRN
+20797
+Title
+Computation for the Sciences
+Credit Hours
+1
+Description
+An introduction to computer programming that provides the tools necessary for students to use computers effectively in scientific work, including physical sciences, biological sciences, medicine, mathematics, psychology, and economics. Students learn to write software to solve problems, visualize and analyze data, perform computer simulations, and implement and test computational models that arise in a wide range of scientific disciplines. The course introduces MATLAB, an extensive and widely used technical computing environment with advanced graphics, visualization, and analysis tools, and a rich high-level programming language. Students are required to attend an additional two-hour laboratory section each week.
+Seats Available
+0
+Max. Enrollment
+28
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None. No prior background with computers is expected.
+Distributions
+Does not satisfy the laboratory requirement
+Mathematical Modeling
+Notes
+Does not fulfill the laboratory requirement.
+Instructor(s)
+Ellen Hildreth
+Meeting Time(s)
+MTh - 08:30 am - 09:40 am Loc:
+Category
+6
+Course
+MATH 305
+CRN
+21050
+Title
+Abstract Algebra
+Credit Hours
+1
+Description
+In this course, students examine the structural similarities between familiar mathematical objects such as number systems, matrix sets, function spaces, general vector spaces, and mod n arithmetic. Topics include groups, rings, fields, homomorphisms, normal subgroups, quotient spaces, isomorphism theorems, divisibility, and factorization. Many concepts generalize number theoretic notions such as Fermat's little theorem and the Euclidean algorithm. Optional subjects include group actions and applications to combinatorics.
+Seats Available
+4
+Max. Enrollment
+25
+Prerequisite(s)
+MATH 206.
+Distributions
+Mathematical Modeling
+Instructor(s)
+Alexander Diesl
+Meeting Time(s)
+MWTh - 09:50 am - 11:00 am Loc:
+Category
+10
+FREN 102
+CRN
+20001
+Title
+Beginning French II
+Credit Hours
+1
+Description
+Systematic training in all the language skills, with special emphasis on communication, self-expression, and cultural insights. A multimedia course based on the video series French in Action. Classes are supplemented by regular assignments in a variety of video, audio, print, and Web-based materials to give students practice using authentic French accurately and expressively. Three periods.
+Seats Available
+2
+Max. Enrollment
+20
+Prerequisite(s)
+Open to students who do not present French for admission or by permission of the instructor.
+Distributions
+None
+Notes
+Each semester of FREN 101 and FREN 102 earns one unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Sylvaine Egron-Sparrow
+Meeting Time(s)
+MWTh - 09:50 am - 11:00 am Loc: 
+Category
+10
+Course
+GER 102
+GER 102
+20007
+Title
+Beginning German
+Credit Hours
+1
+Description
+An introduction to contemporary German with emphasis on communicative fluency. Extensive practice in all four skills: listening, speaking, reading, and writing. Videos and Web-based activities introduce the student to topics from contemporary culture in German-speaking countries.
+Seats Available
+18
+Max. Enrollment
+25
+Prerequisite(s)
+GER 101
+Distributions
+None
+Notes
+Each semester of GER 101 and GER 102 earns one unit of credit. Both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Thomas Hansen
+Meeting Time(s)
+MWTh - 09:50 am - 11:00 am Loc:
+Category
+16
+Course
+ENG 203
+CRN
+20046
+Title
+Short Narrative
+Credit Hours
+1
+Description
+A workshop in the writing of the short story; frequent class discussion of student writing, with some reference to established examples of the genre. Enrollment is limited to 15 students.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Notes
+Mandatory credit/noncredit. Students who have taken this course once may register for it one additional time.
+Instructor(s)
+James Wallenstein
+Meeting Time(s)
+MTh - 02:50 pm - 04:00 pm Loc:
+Category
+14
+Course
+CLCV 104
+CRN
+22869
+Title
+Classical Mythology
+Credit Hours
+1
+Description
+Achilles' heel, the Trojan Horse, Pandora's Box, an Oedipal complex, a Herculean task—themes and figures from classical mythology continue to play an important role in our everyday life. We will read the original tales of classical heroes and heroines together with more modern treatments in film and literature. Why do these stories continue to engage, entertain, and even shock us? What is the nature and power of myth? Readings from ancient sources in English translation.
+Seats Available
+0
+Max. Enrollment
+55
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Bryan Burns
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+10
+Course
+HEBR 102
+CRN
+20205
+Title
+Elementary Hebrew
+Credit Hours
+1
+Description
+Introduction to Hebrew with emphasis on its contemporary spoken and written form. Practice in the skills of listening and speaking as well as reading and writing, together with systematic study of Hebrew grammar. Students will master a basic vocabulary of approximately 1,000 words, and become comfortable in the use of the present, past, and future tenses, as well as basic verb patterns.
+Seats Available
+10
+Max. Enrollment
+12
+Prerequisite(s)
+None
+Distributions
+None
+Notes
+Each semester of HEBR 101 and HEBR 102 earns one unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Anna Grinfeld
+Meeting Time(s)
+MWTh - 09:50 am - 11:00 am Loc:
+Category
+10
+Course
+ARAB 102
+CRN
+20658
+Title
+Elementary Arabic
+Credit Hours
+1
+Description
+An introduction to the Arabic language. The course takes a comprehensive approach to language learning and emphasizes the four skills of listening, speaking, reading, and writing. Students are introduced to the principles of grammar, taught how to read and write in the Arabic alphabet, and trained in the basics of everyday conversation. Through the use of a variety of written, video, and audio materials, as well as other resources made available through the Web, the course emphasizes authentic materials and stresses the active participation of students in the learning process.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+ARAB 101
+Distributions
+None
+Notes
+Each semester of ARAB 101 and ARAB 102 earns 1.0 unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Yasmine Ramadan
+Meeting Time(s)
+MTWTh - 08:30 am - 09:40 am Loc:
+Category
+10
+Course
+HNUR 102
+CRN
+21018
+Title
+Elementary Hindi/Urdu
+Credit Hours
+1
+Description
+An introduction to the most widely spoken language in the South Asian subcontinent, which is also used extensively for interregional and international communications. Learning this language provides a linguistic passport to things South Asian. The language—often referred to as "Hindustani"—is written in two different scripts: the Perso-Arabic based Urdu, and the Sanskrit based Devanagari (Hindi). Students will learn to converse in the language and to read and write in both scripts. Conventional teaching materials will be supplemented by popular songs and clips from contemporary Indian cinema and television, the two internationally popular media that use this language.
+Seats Available
+4
+Max. Enrollment
+12
+Prerequisite(s)
+HNUR 101
+Distributions
+None
+Notes
+Each semester of HNUR 101 and HNUR 102 earns one unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Neelima Shukla-Bhatt
+Meeting Time(s)
+TWF - 08:30 am - 09:40 am Loc:
+Category
+9
+Course
+CHIN 102 
+CRN
+20004
+Title
+Beginning Chinese
+Credit Hours
+1.25
+Description
+An introductory course that teaches the skills of listening comprehension, speaking, reading, and writing in Mandarin Chinese. Emphasis is on pronunciation, vocabulary, grammar, and communication. Computer programs for pronunciation, listening comprehension, grammar, and writing Chinese characters will be used extensively. Four 70-minute classes plus one 30-minute small-group session.
+Seats Available
+3
+Max. Enrollment
+15
+Prerequisite(s)
+None. Open only to students with no Chinese language background.
+Distributions
+None
+Notes
+Each semester of CHIN 101 and CHIN 102 earns 1.25 units of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Qiuyan Tang
+Meeting Time(s)
+MTWTh - 08:30 am - 09:40 am Loc:
+Category
+9
+Course
+JPN 102 
+CRN
+20220
+Title
+Beginning Japanese
+Credit Hours
+1.25
+Description
+Introduction to the modern standard Japanese language. Emphasis on developing proficiency in listening, speaking, reading, and writing, using basic expressions and sentence patterns. Four 70-minute classes plus one 30-minute small group session.
+Seats Available
+1
+Max. Enrollment
+15
+Prerequisite(s)
+None
+Distributions
+None
+Notes
+Each semester of JPN 101 and JPN 102 earns 1.25 unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Yoshimi Maeno,Kazuko Ozawa
+Meeting Time(s)
+MTWTh - 08:30 am - 09:40 am Loc:
+Category
+9
+Course
+CHIN 208 
+CRN
+22889
+Title
+Writing Modern China (in English)
+Credit Hours
+1
+Description
+Over the course of the twentieth century, China underwent enormous changes in the sweep of modernization, which opened the door to a wealth of experimentation, especially in literature and culture. The primary focus of this course is to explore how literary forms adapted to the dominant political and cultural movements of modern China. At the same time, individual Chinese writers crafted unique visions from their experiences "on the ground." In works that date from the late Qing to the present, we will explore the varied representations of Chinese modernity, including topics, such as the individual and society, revolution and tradition, the countryside and the city, gender and sexuality. No prior knowledge of Chinese literature or Chinese language is required.
+Seats Available
+10
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Language and Literature
+Instructor(s)
+Mingwei Song
+Meeting Time(s)
+MTh - 01:30 pm - 02:40 pm Loc:
+Category
+15
+Course
+ENG 120 
+CRN
+22300
+Title
+Critical Interpretation
+Credit Hours
+1
+Description
+English 120 introduces students to a level of interpretative sophistication and techniques of analysis essential not just in literary study but in all courses that demand advanced engagement with language. Sections perform detailed readings in the principal literary genres, studying a selection of poems, a play, and prose narrative. Sustained attention is given to improving student writing. Required of English majors and minors, 120 fosters intellectual community among its students by teaching some texts common to all sections and keying them to campus events including performances of the year’s play by London actors, film screenings, lunchtime lectures by 120 faculty, and other occasions for discussion and collaboration. The play for 2013-14 is Shakespeare’s Othello; the fiction component is Jane Austen's Persuasion.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+None. Primarily designed for, and required of, English majors. Ordinarily taken in first or sophomore year.
+Distributions
+Language and Literature
+Notes
+ENG 120 is also taught as part of the First-Year Writing program. Two of these combined sections are offered each semester, and open to first-year students only. A course description can be found below as WRIT 105, and in the Writing Program curriculum.
+Instructor(s)
+Daniel Chiasson
+Meeting Time(s)
+MTh - 08:30 am - 09:40 am Loc:
+Category
+15
+Course
+ENG 120
+CRN
+22448
+Title
+Critical Interpretation
+Credit Hours
+1
+Description
+English 120 introduces students to a level of interpretative sophistication and techniques of analysis essential not just in literary study but in all courses that demand advanced engagement with language. Sections perform detailed readings in the principal literary genres, studying a selection of poems, a play, and prose narrative. Sustained attention is given to improving student writing. Required of English majors and minors, 120 fosters intellectual community among its students by teaching some texts common to all sections and keying them to campus events including performances of the year’s play by London actors, film screenings, lunchtime lectures by 120 faculty, and other occasions for discussion and collaboration. The play for 2013-14 is Shakespeare’s Othello; the fiction component is Jane Austen's Persuasion.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+None. Primarily designed for, and required of, English majors. Ordinarily taken in first or sophomore year.
+Distributions
+Language and Literature
+Notes
+ENG 120 is also taught as part of the First-Year Writing program. Two of these combined sections are offered each semester, and open to first-year students only. A course description can be found below as WRIT 105, and in the Writing Program curriculum.
+Instructor(s)
+Timothy Peltason
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Category
+15
+Course
+AMST 364 
+CRN
+22822
+Title
+Race and Ethnicity in Literature
+Credit Hours
+1
+Description
+Topic for 2013-14: Twenty-First Century American Literature of Immigration and Diaspora : This course explores the exciting new literature produced by writers transplanted to the United States. We'll consider how the perspectives of recent immigrants redefine what is American by sustaining linkages across national borders, and we'll examine issues of hybrid identity and multiple allegiances, collective memory, traumatic history, nation, home and homeland, and globalization. Our course materials include novels, essays, and films. We'll be looking at writers in the United States with cultural connections to Egypt, Nigeria, Dominican Republic, India, Greece, Vietnam, Bosnia, Ethiopia, Korea, and Mexico. Some authors to be included: Andre Aciman, Teju Cole, Junot Diaz, Kiran Desai, Lê Thi Diem Thúy, Jeffrey Eugenides, Aleksandar Hemon, Dinaw Mengestu, and Téa Obreht.
+Seats Available
+0
+Max. Enrollment
+20
+Prerequisite(s)
+Open to juniors and seniors who have taken two literature courses in the department, at least one of which must be 200 level, or by permission of the instructor to other qualified students.
+Distributions
+Language and Literature
+Crosslisted Courses:
+ENG 364 01 - Tpc: 21st Cntry Amer Lit
+Instructor(s)
+Kathleen Brogan
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Category
+9
+Course
+AMST 212
+CRN
+22224
+Title
+Korean American Literature and Culture
+Credit Hours
+1
+Description
+What is Korean American Literature and what is the justification for setting it apart from the rest of Asian American literature? The course approaches this question by taking up a range of fictional and dramatic writings, almost all of which were turned out between 1995 and 2012. Many writings not on the syllabus will also be introduced, in order to convey a broader picture. Films on Korean Americans help us look beyond literature per se to a wider cultural perspective. As the semester evolves we will continue to keep an eye on the range of styles, issues, and silences that characterize this field. We will also consider how Korean American literature relates to other literary traditions, such as modern Korean literature and Asian American literature. Finally, we will take up the problem of language: the ways in which English is used to evoke a specifically Korean American idiom and the contrary process through which certain Korean American works reach beyond the “ethnic�? designation and into the mainstream. By the end of the semester we will have assembled some tools for deciding whether a piece of literature qualifies as “Korean American.�?
+Seats Available
+13
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Instructor(s)
+Ellen Widmer
+Meeting Time(s)
+MTh - 01:30 pm - 02:40 pm Loc:
+Category
+15
+Course
+AMST 286
+CRN
+21425
+Title
+Radical Voyagers: Queer Literature in an American and Global Context
+Credit Hours
+1
+Description
+This course will explore the development of American and transnational LGBTQ literature from the nineteenth century to the present in the context of U.S. and global transformations of society, politics, and consciousness. The course will introduce elements of "queer theory" and gender theory; it will address historical and present-day constructions of sexuality primarily through works of poetry, autobiography, and fiction. Readings will include such writers as Walt Whitman, Henry James, Willa Cather, James Baldwin, Audre Lorde, Adrienne Rich, Gloria Anzaldúa, and Leslie Feinberg.
+Seats Available
+20
+Max. Enrollment
+30
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Crosslisted Courses:
+ENG 286 01 - Radical Voyagers
+Instructor(s)
+Paul Fisher
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+14
+Course
+ENG 271 
+CRN
+21163
+Title
+Topics in Eighteenth-Century Fiction
+Credit Hours
+1
+Description
+Topic for 2013-14: Novels of the Open Road: Novels have a long association with wandering. From Don Quixote onward, characters ride, walk, run, or stumble along roads whose destinations are not always clear. But their reasons for doing so are as varied as their goals. This course examines who moves where and why in novels of the eighteenth century. Are characters seeking adventure or simply survival? Are they running away or toward something? How do gender and class affect one's ability to move? Authors are likely to include Defoe, Richardson, Fielding, Smollett, Charlotte Smith, and Austen.
+Seats Available
+24
+Max. Enrollment
+30
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Instructor(s)
+Yoon Lee
+Meeting Time(s)
+TF - 02:50 pm - 04:00 pm Loc:
+Category
+16
+Course
+WRIT 225
+CRN
+22188
+Title
+Nonfiction Writing
+Credit Hours
+1
+Description
+Topic for 2013-14: Writing the Travel Essay: Taken a trip lately—junior year abroad, summer vacation, spring break? Looked back fondly or in horror at a family road trip? Turn your experience into a travel essay. We will be studying both the genre of the literary travel essay as well as the more journalistic travel writing found in newspaper travel sections and travel magazines. And, of course, we will be writing our own travel narratives. The course focuses on the essentials of travel writing: evocation of place, a sophisticated appreciation of cultural differences, a considered use of the first person (travel narratives are closely related to the genre of memoir), and basic strong writing/research skills.
+Seats Available
+1
+Max. Enrollment
+15
+Prerequisite(s)
+Fulfillment of the First-Year Writing requirement.
+Distributions
+Language and Literature
+Notes
+WRIT 225/ENG 206 is a changing topics writing workshop that will each year take up a particular nonfiction writing genre. Open to students who have fulfilled the First-Year Writing requirement; please note that this course is not intended as a substitute for the First-Year Writing requirement. Enrollment is limited to 15 students. Mandatory credit/noncredit.
+Crosslisted Courses:
+ENG 206 02 - Tpc: Writing the Travel Essay
+Instructor(s)
+Marilyn Sides
+Meeting Time(s)
+TF - 08:30 am - 09:40 am Loc:
+Category
+13
+Course
+WGST 120 
+CRN
+21020
+Title
+Introduction to Women's and Gender Studies
+Credit Hours
+1
+Description
+Introduction to the interdisciplinary field of women's and gender studies with an emphasis on an understanding of the "common differences" that both unite and divide women. Beginning with an examination of how womanhood has been represented in myths, ads, and popular culture, the course explores how gender inequalities have been both explained and critiqued. The cultural meaning given to gender as it intersects with race, class, ethnicity, and sexuality will be studied. This course also exposes some of the critiques made by women's studies' scholars of the traditional academic disciplines and the new intellectual terrain currently being mapped.
+Seats Available
+0
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Social and Behavioral Analysis
+Instructor(s)
+Elena Creef
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc:
+Category
+13
+Course
+ITAS 274
+CRN
+22325
+Title
+Women in Love: Portraits of Female Desire in Italian Culture
+Credit Hours
+1
+Description
+This course is dedicated to the representation of female desire in Italian culture. From Dante's Francesca da Rimini to Pasolini's Medea, passing through renowned literary characters such as Goldoni's Mirandolina, Manzoni's Gertrude, and Verdi's Violetta, the course will explore different and contrasting voices of female desire: unrequited and fulfilled, passionate and spiritual, maternal and destructive, domestic and transgressive. In particular, the varied and beautiful voices of women in love will become privileged viewpoints to understand the changes that occur in Italian culture in the conception of desire and other intimate emotions, as well as in the notion of gender and sexuality. Students will read texts by men and women from a wide variety of literary genres and artistic forms including not only prose and poetry, but also theatre, opera, and cinema. They will also read important theoretical essays on the conception of love in Western cultures by Barthes, de Rougemont, Giddens, and Nussbaum.
+Seats Available
+19
+Max. Enrollment
+25
+Prerequisite(s)
+ITAS 202 or ITAS 201.
+Distributions
+Language and Literature
+Instructor(s)
+Sergio Parussa
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Category
+13
+Course
+ENG 114
+CRN
+22906
+Title
+Topics in American Literature
+Credit Hours
+1
+Description
+American literature contains an astonishing myriad of voices and forms. This changing topics course introduces students to highlights and countercurrents of the American tradition.
+  Topic for 2013-14: A Woman of Independent Means : As with all cultural productions, literary works do not simply reflect reality; they also help to create it. In this course we will read nineteenth- and twentieth-century American literature that endeavors to imagine “a life beyond�? traditional social roles for American women. Can a woman write herself (or be written) beyond the confines of slavery, the limitations of the “marriage plot," or the expectations of her cultural inheritance? How has the image of the independent woman in fiction evolved from The Coquette to The Woman Warrior? We will read well-known authors such as Henry James, Emily Dickinson, and Toni Morrison in addition to less canonical writers such as Susan Warner and Hannah Webster Foster. Assignments will include quizzes, a midterm, a final, and a few short response essays.
+Seats Available
+44
+Max. Enrollment
+60
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Instructor(s)
+Margery Sokoloff
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category
+16
+Course
+ENG 204 
+CRN
+20622
+Title
+The Art of Screenwriting
+Credit Hours
+1
+Description
+A creative writing course in a workshop setting for those interested in the theory and practice of writing for film. This course focuses on the full-length feature film, both original screenplays and screen adaptations of literary work. Enrollment is limited to 15 students.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+None
+Distributions
+Arts, Music, Theatre, Film and Video
+Language and Literature
+Notes
+Mandatory credit/noncredit. Students who have taken this course once may register for it one additional time.
+Crosslisted Courses:
+CAMS 234 01 - The Art of Screenwriting
+Instructor(s)
+James Wallenstein
+Meeting Time(s)
+W - 09:50 am - 12:20 pm Loc:
+Category
+14
+Course
+ARTH 201 
+CRN
+23039
+Title
+Medieval Art and Architecture, 400-1400
+Credit Hours
+1
+Description
+This course surveys the visual cultures of Medieval Europe and the Mediterranean. Topics include religious art and architecture and their ritual aspects, the Medieval approaches to the human body and the material world, the intersection between gender and devotional practices, relationships between script and image in illuminated manuscripts, cross-cultural encounters around the Mediterranean.
+Prerequisite(s)
+None. ARTH 100 and ARTH 101 recommended.
+Distributions
+Arts, Music, Theatre, Film and Video
+Notes
+Normally offered in alternate years.
+Instructor(s)
+Lamia Balafrej
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+12
+Course
+ARTH 232 
+CRN
+22829
+Title
+American Art
+Credit Hours
+1
+Description
+This course surveys American art from the Colonial period to World War II, a time of tumultuous change when Americans were in the process of inventing themselves. All through this period, American art was implicated in the larger social, political, and economic developments of its time. We will investigate these intersections as we focus on major artists and major movements. Themes will include the place of art in a democratic society, the rise of women artists, American encounters with art from other parts of the world, and the roles that art played in such areas as identity formation, westward expansion, and cultural anxieties about American masculinity.
+Prerequisite(s)
+None. ARTH 100 and ARTH 101 recommended.
+Distributions
+Arts, Music, Theatre, Film and Video
+Instructor(s)
+Rebecca Bedell
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc:
+Category
+14
+Course
+ARTH 241 
+CRN
+22830
+Title
+Egyptian Art and Archaeology
+Credit Hours
+1
+Description
+The greater Nile Valley has yielded some of the world's most ancient and compelling monuments. In this course we will survey the art and architecture of ancient Egypt from Neolithic times (c. 6000 B.C.) through the Roman period (c. second century A.D.). One class session per month will meet in the Museum of Fine Arts.
+Prerequisite(s)
+None. ARTH 100 recommended.
+Distributions
+Arts, Music, Theatre, Film and Video
+Notes
+Normally offered in alternate years.
+Instructor(s)
+Rita Freed
+Meeting Time(s)
+T - 01:30 pm - 04:00 pm Loc:
+Category
+12
+Course
+ARTH 333 
+CRN
+23041
+Title
+Seminar. Visual Analysis of Film
+Credit Hours
+1
+Description
+Topic for 2013-14: The Melodramatic Tradition from D.W. Griffith to Wong Kar-Wai : The focus of this course will be a series of films that take as their theme the disruptive tensionsÑbetween the sexes and between generationsÑthat emerge with shattering force in seemingly ordinary domestic settings. After briefly considering the pictorial roots of this tradition in seventeenth- and eighteenth-century painting, the class will turn to films directed by D.W. Griffith, G.W. Pabst, Marcel Ophuls, Douglas Sirk, Todd Haynes, and Wong Kar-Wai. The class will explore the extensive critical and theoretical literature that is devoted to these films; at the same time we will pay scrupulous attention to their visual qualities through the close analysis of mise-en-scene, lighting, camera-work, and editing.
+Prerequisite(s)
+ARTH 101, or ARTH 224 or ARTH 226/CAMS 207, or CAMS 101
+Distributions
+Arts, Music, Theatre, Film and Video
+Instructor(s)
+Margaret Carroll
+Meeting Time(s)
+M - 01:30 pm - 04:00 pm Loc:
+Category
+14
+Course
+ARTH 344 
+CRN
+22433
+Title
+Seminar. Topics in Islamic Art
+Credit Hours
+1
+Description
+  Topic for 2013-14: Painting, Drawing and Calligraphy from Iraq to India, 1250-1500: Focusing on material produced after the Mongol conquests in the 1250s, the course addresses the cultural and aesthetic approaches to painting, drawing and calligraphy in the Islamic world. Topics include the fusion of visual idioms and identities (Perso-Islamicate, Chinese, Turkic) in the manuscripts produced around 1300; the use of works on paper to disseminate and translate designs and ideas across geographies (from Iraq to India), media (from paper to metalwork or tilework) and art forms (from calligraphy to painting) in the 1400s; the illuminated and/or illustrated book as a site for social interaction in ceremonies, gatherings and specific architectural settings; the development of narrative painting in the Persian book and other intersections between words and images.
+Prerequisite(s)
+ARTH 100 or permission of the instructor.
+Distributions
+Arts, Music, Theatre, Film and Video
+Instructor(s)
+Lamia Balafrej
+Meeting Time(s)
+Th - 01:30 pm - 04:00 pm Loc:
+Category
+11
+Course
+ARTS 105 
+CRN
+20043
+Title
+Drawing I
+Credit Hours
+1
+Description
+A foundational course in observational drawing with attention to the articulation of line, shape, form, gesture, perspective, and value. Studio work introduces a range of traditional drawing tools and observational methods while exploring a variety of approaches to image making and visual expression. In-class drawing exercises and weekly homework assignments address a range of subjects with brief attention given to the human figure. Recommended for all students considering majors in the visual arts and required for those majoring in studio art or architecture. Aimed for first- and second-year students; juniors and seniors should check the Art Department website for override application forms.
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None. Juniors and seniors must submit an application for an override.
+Distributions
+Arts, Music, Theatre, Film and Video
+Instructor(s)
+Daniela Rivera
+Meeting Time(s)
+TF - 09:50 am - 12:20 pm Loc:  
+Category
+11
+Course
+ARTS 113 
+CRN
+22247
+Title
+Three-Dimensional Design
+Credit Hours
+1
+Description
+This introductory course explores the basic formal and spatial considerations when working with three-dimensional structure and form. Studio projects incorporate a range of materials and methods of visualization. Outside assignments and class discussions are aimed toward helping students enhance their creativity and spatial awareness while acquiring sensitivity for placement, process, and materials. Required for Architecture majors. Aimed for first- and second-year students; juniors and seniors should check the Art Department website for override application forms.
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None. Juniors and seniors must submit an application for an override.
+Distributions
+Arts, Music, Theatre, Film and Video
+Instructor(s)
+Andrew Mowbray
+Meeting Time(s)
+TF - 09:50 am - 12:20 pm Loc:
+Category
+11
+Course
+ARTS 165 
+CRN
+20263
+Title
+Introduction to Video Production
+Credit Hours
+1
+Description
+Introduction to the principles of video production with emphasis on developing basic skills of recording with a video camera, scripting, directing, and editing short videos.
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None. Aimed for first- and second-year students; juniors and seniors should check the Art Department website for override application forms.
+Distributions
+Arts, Music, Theatre, Film and Video
+Notes
+Meets the Production requirement for CAMS majors.
+Instructor(s)
+Betsy Seder
+Meeting Time(s)
+T - 08:30 am - 12:20 pm Loc:
+Category
+11
+Course
+ARTS 216 
+CRN
+21083
+Title
+Spatial Investigations
+Credit Hours
+1
+Description
+A mixed-media course designed for architecture and studio art majors wishing to strengthen their visual, creative, and spatial responsiveness. Class work explores various forms of drawing in two and three dimensions, including basic architectural rendering, fixed viewpoint perspective, mapping, modeling, some digital work, and temporary site-built installations. Following a series of studio projects and discussions considering issues of space and place, the physicality of space, and our historic relationship to architecture, each student produces a self-directed final project. Strongly recommended for architecture majors before enrolling in architectural design courses at MIT.
+Prerequisite(s)
+ARTS 105
+Distributions
+Arts, Music, Theatre, Film and Video
+Notes
+Studio fee of $35.
+Instructor(s)
+Andrew Mowbray
+Meeting Time(s)
+TF - 01:30 pm - 04:00 pm Loc:
+Category
+11
+Course
+ARTS 217 
+CRN
+20718
+Title
+Life Drawing
+Credit Hours
+1
+Description
+Understanding the human figure by direct observation of and drawing from the model. A highly structured approach with emphasis on finding a balance between gestural response and careful measurement. Rigorous in-class drawings as well as homework assignments. Dry and wet media as well as work on a variety of scales. Recommended for architecture majors as well as those who intend to do further studio work from the figure.
+Prerequisite(s)
+ARTS 105
+Distributions
+Arts, Music, Theatre, Film and Video
+Instructor(s)
+Bunny Harvey
+Meeting Time(s)
+MTh - 09:50 am - 12:20 pm Loc:
+Category
+12
+Course
+ARTS 307 
+CRN
+20486
+Title
+Advanced Sculpture
+Credit Hours
+1
+Description
+Continuation on a more advanced level of sculptural issues raised in ARTS 207. Projects include working from the figure, metal welding or wood construction, and metal casting in the foundry as well as stone carving.
+Seats Available
+5
+Max. Enrollment
+15
+Prerequisite(s)
+ARTS 207, ARTS 216, or permission of the instructor required.
+Distributions
+Arts, Music, Theatre, Film and Video
+Notes
+Studio fee of $50.
+Instructor(s)
+Carlos Dorrien
+Meeting Time(s)
+TF - 01:30 pm - 04:00 pm Loc:
+Category
+12
+Course
+ARTS 315 
+CRN
+21137
+Title
+Advanced Painting
+Credit Hours
+1
+Description
+A project-based painting course that aims to challenge pre-established assumptions about the discipline. This studio provides an opportunity for advanced students to share their painting practice and benefit from an intensive, well-informed creative dialogue. The group interacts in a seminar fashion, in which topics are formulated and students are asked to develop independent projects around them. Each student will continue to explore the issues of color, paint handling, and subject matter, while developing an independent vocabulary and well-informed body of work. 
+Prerequisite(s)
+ARTS 218 or permission of the instructor required.
+Distributions
+Arts, Music, Theatre, Film and Video
+Notes
+ARTS 315 may be repeated, ordinarily for a maximum of two semesters.
+Instructor(s)
+Daniela Rivera
+Meeting Time(s)
+TF - 01:30 pm - 04:00 pm Loc:
+Category
+16
+Course
+CAMS 213 
+CRN
+22861
+Title
+From Berlin to Hollywood (in English)
+Credit Hours
+1
+Description
+This course will trace the complicated relationships between the two major centers of movie making by focusing on film directors who became icons of Hollywood after having spent their formative years in Berlin, Vienna, or Prague. We will discuss both the history of commercial competition between Berlin and Hollywood as well as notions of aesthetic transfer by analyzing the work of actors and directors such as Marlene Dietrich, Peter Lorre, F.W. Murnau, Fritz Lang, Ernst Lubisch, Billy Wilder, Douglas Sirk, all the way through contemporary directors like Wolfgang Petersen and Wim Wenders.
+Prerequisite(s)
+None
+Distributions
+Arts, Music, Theatre, Film and Video
+Language and Literature
+Instructor(s)
+Thomas Nolden
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc:
+Category
+13
+Course
+CAMS 227 
+CRN
+22862
+Title
+Television
+Credit Hours
+1
+Description
+Television today is omnipresent and, it sometimes seems, omnipotent: seen by millions worldwide, generating massive revenue, enormously influential in shaping conceptions of ourselves and our world. The course will begin with a study of the specific form of television, and of the development of televisual style (and spectatorial perception) since the invention of the medium. We will consider how television sells not just consumer goods but cultural myths and self-images: of family, class, and national identity; gender roles, sexuality, and lifestyle; and race and ethnicity. We will explore the ways in which industrial and regulatory practices operate behind the scenes to shape and control what and who gets broadcast, and how. The course will conclude with a look ahead to television's next frontiers.
+Prerequisite(s)
+CAMS 101, CAMS 135/ARTS 165, or ARTH 101 or permission of the instructor. CAMS core course. Meets core requirement for CAMS major and minor.
+Distributions
+Arts, Music, Theatre, Film and Video
+Instructor(s)
+Winifred Wood
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category
+16
+Course
+FREN 226 
+CRN
+22920
+Title
+Speaking Through Acting
+Credit Hours
+1
+Description
+Improvement of French oral skills and public speaking skills through the use of acting techniques. Intensive analysis of short literary texts and excerpts from several plays with emphasis on pronunciation, diction, elocution, acting and staging.
+Prerequisite(s)
+At least one unit of FREN 206, FREN 207, FREN 208, FREN 209, or above, an SAT II score of 690-800, an equivalent departmental placement score, or an AP score of 5.
+Distributions
+Arts, Music, Theatre, Film and Video
+Language and Literature
+Instructor(s)
+Catherine Masson
+Meeting Time(s)
+TF - 02:50 pm - 04:00 pm Loc:
+Category
+13
+Course
+FREN 331 
+CRN
+22924
+Title
+Desire, Sexuality, and Love in African Francophone Cinema
+Credit Hours
+1
+Description
+An exploration of the cinematic construction of relationships within traditional or transgressive couples in cinema from Francophone Africa. Consideration of various cultural and social aspects will frame our study of cinematic space, narration, and techniques including lighting, camera view/angle/movement, as well as montage. Controversial issues in the films, such as clitoridectomy, polygamy, and homosexuality will be examined.
+Prerequisite(s)
+FREN 211 and one additional unit, FREN 213 or above.
+Distributions
+Arts, Music, Theatre, Film and Video
+Language and Literature
+Instructor(s)
+Anjali Prabhu
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+9
+Course
+JPN 255 
+CRN
+22892
+Title
+Japan on Stage
+Credit Hours
+1
+Description
+This course provides an introduction to Japanese theater with an emphasis on the development of the performance text from the eighth century to the contemporary period. Our work will be a combination of textual analysis and hands-on performance. Using videos and translated texts, as well as critiques by actors (in particular those of the medieval noh actor Zeami Motokiyo and the kabuki collection of actor's analects), and scholarly studies, we will cover three units: noh and ky?gen; kabuki and bunraku puppet theater; and contemporary theater. Students will have an opportunity to experiment with writing a modern noh play based on their understanding of the noh theatrical conventions, and to perform in a ky?gen play. No previous experience in Japanese Studies or Theater Studies required.
+Prerequisite(s)
+None
+Distributions
+Arts, Music, Theatre, Film and Video
+Notes
+Not open to students who completed THST 131 or JPN 131 in the fall of 2011.
+Instructor(s)
+Carolyn Morley
+Meeting Time(s)
+TF - 02:50 pm - 04:00 pm Loc:
+Category
+12 
+Course
+THST 204 
+CRN
+20014
+Title
+Introduction to Acting
+Credit Hours
+1
+Description
+This course is intended for any and all levels of experience. Students are introduced to the fundamentals of contemporary stage performance, as devised by such stage theoreticians as Constantine Stanislavsky, Lee Strasbourg, and Sanford Meisner. Instruction focuses on the proper methods for breaking scenes down into component units or "beats," staging them for clarity of purpose, and performing them truthfully in the immediate present before a live audience. Students perform in every class with a rotating roster of partners, emphasizing group learning and mutual support in the pursuit of an individual acting aesthetic. Performance material is drawn from the work of contemporary playwrights researched by the students or recommended by the instructor.
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None
+Distributions
+Arts, Music, Theatre, Film and Video
+Instructor(s)
+Diego Arciniegas
+Meeting Time(s)
+M - 09:50 am - 12:20 pm Loc:                                                                                                                                                                                                                                                                                                                 
+Category
+20
+Course
+SOC 105 
+CRN
+23000
+Title
+Doing Sociology: Applying Sociological Concepts to the Real World
+Credit Hours
+1
+Description
+The goal of this course is to learn to analyze real life situations using sociological tools. The course is organized around a series of exercises that will teach students different analytical techniques and explore sociological theories and concepts. Projects may include reading novels, analyzing films, working with census data, interviewing, conducting surveys, participant observation, debating, and a small independent research project. Each project will focus on a subfield in the discipline and will serve as a platform from which students can explore basic theories, analytic categories, and methods. Students will work individually, in pairs, and in small groups.
+Seats Available
+8
+Max. Enrollment
+15
+Prerequisite(s)
+None
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Peggy Levitt
+Meeting Time(s)
+M - 01:30 pm - 04:00 pm Loc: 
+Category
+22
+Course
+AFR 306
+CRN
+22222
+Title
+Urban Development and the Underclass: Comparative Case Studies
+Credit Hours
+1
+Description
+Throughout the African Diaspora, economic change has resulted in the migration of large numbers of people to urban centers. This course explores the causes and consequences of urban growth and development, with special focus on the most disadvantaged cities. The course will draw on examples from the United States, the Caribbean, South America, and Africa.
+Seats Available
+13
+Max. Enrollment
+20
+Prerequisite(s)
+One 200-level course of relevance to Africana Studies or permission of the instructor.
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Filomina Steady
+Meeting Time(s)
+T - 09:50 am - 12:20 pm Loc:
+Category
+24
+Course
+AMST 241 
+CRN
+23053
+Title
+A Nation in Therapy
+Credit Hours
+1
+Description
+What is therapy? Although historically tied to the values and goals of medicine, the roles that therapy and therapeutic culture play in defining life, liberty, and the pursuit of happiness are now ubiquitous. The impact of therapeutic culture on every major social institution, including the family, education, and the law, has created a steady stream of controversy about the ways in which Americans in particular make judgements about right and wrong, about others, and about themselves. Are Americans obsessed with their well being? Is there a type of humor specific to therapeutic culture? This course provides a broad survey of the triumph of the therapeutic and the insights into the character and culture that triumph reveals.
+Seats Available
+0
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Social and Behavioral Analysis
+Crosslisted Courses:
+SOC 241 01 - A Nation in Therapy
+Instructor(s)
+Jonathan Imber
+Meeting Time(s)
+W - 02:15 pm - 04:45 pm Loc: 
+Category
+24
+Course
+AMST 348 
+CRN
+22821
+Title
+Conservatism in America
+Credit Hours
+1
+Description
+An examination of conservative movements and ideas in terms of class, gender, and race. Historical survey and social analysis of such major conservative movements and ideas as paleoconservatism, neoconservatism, and compassionate conservatism. The emergence of conservative stances among women, minorities, and media figures. The conservative critique of American life and its shaping of contemporary national discourse on morality, politics, and culture.
+Seats Available
+17
+Max. Enrollment
+30
+Prerequisite(s)
+A 100-level sociology course or permission of the instructor. Open to juniors and seniors only.
+Distributions
+Social and Behavioral Analysis
+Crosslisted Courses:
+SOC 348 01 - Conservatism in America
+Instructor(s)
+Jonathan Imber
+Meeting Time(s)
+Th - 01:30 pm - 04:00 pm Loc: 
+Category
+24
+Course
+ANTH 214 
+CRN
+22824
+Title
+Race and Human Variation
+Credit Hours
+1
+Description
+This is a course about race concepts and human biological variation, viewed from historical and biological perspectives. This course thus has two intertwined emphases. One is placed on the historical connection between science and sociopolitical ideologies and policies. The other is on the evolutionary origin of human biological and cultural diversity. Through lecture and discussion section, topics explored include the role of polygenism, historically and in current scientific thought; biological determinism and scientific racism; the Holocaust and other examples of applied biology and the role of the race concept in current scientific debates, such as those over the place of the Neanderthals in human evolution, as well as those over the book The Bell Curve. The course seeks to guide students through a critical exercise in studying the evolutionary origins of contemporary human biological variation and its close relationship with scientific and popular concepts of race.
+Seats Available
+7
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Adam Van Arsdale
+Meeting Time(s)
+MTh - 01:30 pm - 02:40 pm Loc: 
+Category
+18
+Course
+ECON 102
+CRN
+20163
+Title
+Principles of Macroeconomics
+Credit Hours
+1
+Description
+This course follows ECON 101 and analyzes the aggregate dimensions of a market-based economy. Topics include the measurement of national income, economic growth, unemployment, inflation, business cycles, the balance of payments, and exchange rates. The impact of government monetary and fiscal policies is considered.
+Seats Available
+15
+Max. Enrollment
+33
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+ECON 101. Fulfillment of the basic skills component of the Quantitative Reasoning requirement.
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Ama Abeberese
+Meeting Time(s)
+MWTh - 09:50 am - 11:00 am Loc:
+Category
+18
+Course
+ECON 202
+CRN
+20182
+Title
+Intermediate Macroeconomic Analysis
+Credit Hours
+1
+Description
+Intermediate macroeconomic theory: analysis of fluctuations in aggregate income and growth and the balance of payments. Analysis of policies to control inflation and unemployment.
+Seats Available
+1
+Max. Enrollment
+25
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+ECON 101, ECON 102 and one math course at the level of MATH 115 or higher. The math course must be taken at Wellesley.
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Akila Weerapana
+Meeting Time(s)
+TWF - 11:10 am - 12:20 pm Loc: 
+Category
+18
+Course
+ECON 322 
+CRN
+22901
+Title
+Strategy and Information
+Credit Hours
+1
+Description
+How do individuals and groups make decisions? The core of the course is traditional game theory: the formal study of the choices and outcomes that emerge in multi-person strategic settings. Game theoretic concepts such as Nash equilibrium, rationalizability, backwards induction, sequential equilibrium, and common knowledge are motivated by and critiqued using applications drawn from education policy, macroeconomic policy, business strategy, terrorism risk mitigation, and good old-fashioned parlor games.
+Seats Available
+0
+Max. Enrollment
+20
+Prerequisite(s)
+ECON 201 and ECON 103 or equivalent (MATH 220 or PSYC 205). MATH 205 recommended.
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Casey Rothschild
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Category
+22
+Course
+EDUC 215 
+CRN
+22280
+Title
+Understanding and Improving Schools
+Credit Hours
+1
+Description
+Can schools remedy inequalities, or do they reflect and (re)produce them? Drawing from work in educational anthropology, sociology, history, and critical theory, we ask what schools are meant to produce and how this production functions in the everyday life of schooling. We first examine the proposition that schools can be oppressive spaces, and then consider how communities have organized their own struggles to demand and define humanizing and liberatory education. We ask what the purpose of education should be.
+Seats Available
+0
+Max. Enrollment
+20
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Noah Rubin
+Meeting Time(s)
+Th - 09:50 am - 12:20 pm Loc:
+Category
+22
+Course
+SOC 209 
+CRN
+23001
+Title
+Social Inequality: Class, Race, and Gender
+Credit Hours
+1
+Description
+This course examines the distribution of social resources to groups and individuals, as well as theoretical explanations of how unequal patterns of distribution are produced, maintained, and challenged. Special consideration will be given to how race, ethnicity, and gender intersect with social class to produce different life experiences for people in various groups in the United States. Consideration will also be given to policy initiatives designed to reduce social inequalities and alleviate poverty.
+Seats Available
+3
+Max. Enrollment
+20
+Prerequisite(s)
+One 100-level unit or permission of the instructor.
+Distributions
+Social and Behavioral Analysis
+Instructor(s)
+Markella Rutherford
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+17
+Course
+PEAC 104 
+CRN
+21199
+Title
+Introduction to the Study of Conflict, Justice, and Peace
+Credit Hours
+1
+Description
+An interdisciplinary introduction to the study of conflict, justice, and peace. The course engages students in developing an analytical and theoretical framework for examining the dynamics of conflict, violence, and injustice and the strategies that have been employed to attain peace and justice, including balance of power, cooperation, diplomacy and conflict resolution, law, human rights, social movements, social justice (economic, environmental, and race/class/gender), interpersonal communication, and religiously inspired social transformation.
+Seats Available
+6
+Max. Enrollment
+25
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+None
+Distributions
+Religion, Ethics and Moral Philosophy
+Social and Behavioral Analysis
+Instructor(s)
+Catia Confortini
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc: 
+Category
+23
+Course
+AMST 230 
+CRN
+22819
+Title
+Through the Transatlantic Mirror: French-American Encounters from the Age of Revolution to the Age of Disney
+Credit Hours
+1
+Description
+France and the United States have fascinated each other throughout their history, beginning with the founding of the American republic. Americans from the nineteenth to the mid-twentieth centuries viewed France, and Paris in particular, as a beacon of art, culture, literature, and philosophy. For some, especially African Americans, Paris offered a refuge from discrimination back home. Although the French initially perceived the United States as a rustic backwater, by the dawn of the twentieth century it had emerged as a symbol of the future and as the vehicle of a worldwide mass culture epitomized by Hollywood, Coca-Cola, McDonalds, and Disney. This course traces the evolving relationship between France and the United States in the nineteenth and twentieth centuries. Drawing on a variety of historical and literary documents, among them novels and essays as well as films, we will investigate the ways in which each country served as a mirror for the other's culture and experience.
+Seats Available
+11
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Language and Literature
+Crosslisted Courses: 
+FREN 230 01 - French-American Encounters                                                                                                                                                                                                                                                                                                                           
+Instructor(s)
+Venita Datta
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc:
+Category
+21
+Course
+AFR 105 
+CRN
+22815
+Title
+Introduction to the Black Experience
+Credit Hours
+1
+Description
+This course serves as the introductory offering in Africana Studies. It explores, in an interdisciplinary fashion, salient aspects of the Black experience, both ancient and modern, at home and abroad. This course provides an overview of many related themes, including slavery, Africanisms, gender, colonialism, civil rights, and pan-African exchange.
+Seats Available
+15
+Max. Enrollment
+30
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Social and Behavioral Analysis
+Instructor(s)
+Selwyn Cudjoe
+Meeting Time(s)
+T - 01:30 pm - 04:00 pm Loc:
+Category
+24
+Course
+AMST 240 
+CRN
+22145
+Title
+The Rise of an American Empire: Wealth and Conflict in the Gilded Age
+Credit Hours
+1
+Description
+An interdisciplinary exploration of the so-called Gilded Age and the Progressive era in the United States between the Civil War and World War I, emphasizing both the conflicts and achievements of the period. Topics will include Reconstruction and African American experience in the South; technological development and industrial expansion; the exploitation of the West and resistance by Native Americans and Latinos; feminism, "New Women," and divorce; tycoons, workers, and the rich-poor divide; immigration from Europe, Asia, and new American overseas possessions; as well as a vibrant period of American art, architecture, literature, music, and material culture, to be studied by means of the rich cultural resources of the Boston area.
+Seats Available
+2
+Max. Enrollment
+30
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Language and Literature
+Crosslisted Courses:
+ENG 266 01 - Tpc:Rise of an American Empire
+Instructor(s)
+Paul Fisher
+Meeting Time(s)
+MTh - 01:30 pm - 02:40 pm Loc: 
+Category
+21
+Course
+CHIN 223 
+CRN
+22267
+Title
+When Women Rode Horses: The Tang Dynasty, China's Golden Age (in English)
+Credit Hours
+1
+Description
+The Tang Dynasty has long been considered a high point of Chinese civilization. Travelers from lands as distant as India and Rome brought everything from exotic objects to new dances and new religious ideas, making foreign influence stronger than in any period until the modern era. The Dynasty was also a period of transition in which modes of literature, thought, and government that would dominate for the next thousand years first emerged. In this class, we will examine the literary and intellectual culture of Tang Dynasty China, exploring such topics as the capital city as an urban space and a nexus of Chinese and foreign cultures; intellectual trends inspired by Buddhism and a reevaluation of Confucian ideas; and representations of the Dynasty in later periods.
+Seats Available
+17
+Max. Enrollment
+25
+Prerequisite(s)
+Open to all students.
+Distributions
+Historical Studies
+Language and Literature
+Crosslisted Courses:
+CHIN 323 01 - Tang Dynasty (in English)
+Instructor(s)
+Sarah Allen
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc:
+Category
+21
+Course
+HIST 246 
+CRN
+22936
+Title
+Vikings, Icons, Mongols, and Tsars
+Credit Hours
+1
+Description
+A multicultural journey through the turbulent waters of medieval and early modern Russia, from the Viking incursions of the ninth century and the entrance of the East Slavs into the splendid and mighty Byzantine world, to the Mongol overlordship of Russia, the rise of Moscow, and the legendary reign of Ivan the Terrible. We move eastward as the Muscovite state conquers the immense reaches of Siberia by the end of the turbulent seventeenth century, when the young and restless Tsar Peter the Great travels to Western Europe to change Russia forever. We will focus on khans, princes, tsars, nobles, peasants and monks; social norms and gender roles; icons and church architecture; and a host of Russian saints and sinners.
+Seats Available
+7
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Instructor(s)
+Nina Tumarkin
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Category
+23
+Course
+HIST 208 
+CRN
+22932
+Title
+Society and Culture in Medieval Europe
+Credit Hours
+1 
+Description
+This course examines life in medieval Europe c. 750-1250 in all its manifestations: political, religious, social, cultural, and economic. Topics to be studied include the papacy, the political structures of France, Germany, and Italy, monks and monastic culture, religion and spirituality, feudalism, chivalry, courtly love and literature, the crusading movement, intellectual life and theological debates, economic structures and their transformations, and the varied roles of women in medieval life. Students will learn to analyze and interpret primary sources from the period, as well as to evaluate critically historiographical debates related to medieval history.
+Seats Available
+10
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Instructor(s)
+Valerie Ramseyer
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc:
+Category
+23
+Course
+HIST 353 
+CRN
+22944
+Title
+Seminar. Sentimental Education in Early Modern Europe
+Credit Hours
+1
+Description
+Humans have been called rational animals since antiquity, but the notion that we should also develop our non-rational capacities senses, imaginations, memories, and emotionsâ€�?is equally central to Western intellectual and cultural history. We will trace this notion through the visual and material culture of early modern Europe in some of its most fascinating manifestations: memory palaces, Jesuit meditation techniques, emblem books, cabinets of curiosities, history paintings, pictorial encyclopedias, games, and more. Each week will involve hands-on study of jewels from Wellesley's own library and museum collections, and each student will finish the semester by writing a history of an object of her choice.
+Seats Available
+6
+Max. Enrollment
+15
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+Open to juniors and seniors who have taken a grade II unit in history and/or a grade II unit in a relevant area/subject, or by permission of the instructor.
+Distributions
+Historical Studies
+Instructor(s)
+Simon Grote
+Meeting Time(s)
+W - 02:15 pm - 04:45 pm Loc:
+Category
+23
+Course
+HIST 329 
+CRN
+22947
+Title
+Alexander the Great: Psychopath or Philosopher King
+Credit Hours
+1
+Description
+Alexander the Great murdered the man who saved his life, married a Bactrian princess, and dressed like Dionysus. He also conquered the known world by the age of 33, fused the Eastern and Western populations of his empire, and became a god. This course will examine the personality, career, and achievements of the greatest warrior in history against the background of the Hellenistic world.
+Seats Available
+0
+Max. Enrollment
+25
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+Permission of the instructor.
+Distributions
+Historical Studies
+Crosslisted Courses:
+HIST 229 01 - Alexander the Great
+Instructor(s)
+Guy Rogers
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc: 
+Category
+22
+Course
+EDUC 312 
+CRN
+21479
+Title
+Seminar. History of Childhood and Child Welfare
+Credit Hours
+1
+Description
+An exploration of the construction of childhood as a social concept and of changes in concepts of childhood in America. We will examine the emerging role of the state in assuming responsibilities for child rearing, education, and child welfare. We will study the history of how institutions and social policies have attempted to shape the lives of children of differing genders and economic, racial, cultural, linguistic, and ethnic backgrounds; the impact of media; and the development of children's material culture.
+Seats Available
+1
+Max. Enrollment
+15
+Prerequisite(s)
+Open to juniors and seniors. Not open to students who have taken EDUC 110.
+Distributions
+Historical Studies
+Instructor(s)
+Barbara Beatty
+Meeting Time(s)
+T - 01:30 pm - 04:00 pm Loc: 
+Category
+20
+Course
+ANTH 319 
+CRN
+22827
+Title
+Nationalism, Politics, and the Use of the Remote Past
+Credit Hours
+1
+Description
+This seminar critically examines the use of prehistory and antiquity for the construction of accounts of national origins, historical claims to specific territories, or the biased assessment of specific peoples. The course begins with an examination of the phenomenon of nationalism and the historically recent emergence of contemporary nation-states. It then proceeds comparatively, selectively examining politically motivated appropriations of the remote past that either were popular earlier in this century or have ongoing relevance for some of the ethnic conflicts raging throughout the world today. The course will attempt to develop criteria for distinguishing credible and acceptable reconstructions of the past from those that are unbelievable and/or dangerous.
+Seats Available
+19
+Max. Enrollment
+20
+Prerequisite(s)
+One 200-level unit in anthropology, economics, political science, sociology, or permission of the instructor.
+Distributions
+Historical Studies
+Social and Behavioral Analysis
+Instructor(s)
+Philip Kohl
+Meeting Time(s)
+W - 02:15 pm - 04:45 pm Loc: 
+Category
+22
+Course
+EDUC 310 
+CRN
+21349
+Title
+Seminar. Child Literacy and the Teaching of Reading
+Credit Hours
+1
+Description
+An examination of how children acquire reading, writing, and oral language skills, and how this relates to cognition. We will focus on current research and practice in literacy development for elementary-age children. Oral language, reading processes, assessment using a variety of techniques, phonemic awareness, phonics, and comprehension strategies will be addressed; a weekly 1.5-hour field placement experience is required. We will study reading instruction across content areas and teaching strategies that address the needs of a diverse population of learners, including at-risk students, second-language learners, Sheltered English Immersion instruction, and students with special needs. This course is structured to support students pursuing elementary education certification, but is open to all students and highly applicable to students considering teaching abroad and in urban schools.
+Seats Available
+0
+Max. Enrollment
+10
+Prerequisite(s)
+Open to sophomores, juniors, and seniors. 
+Distributions
+Epistemology and Cognition
+Instructor(s)
+Diane Tutin
+Meeting Time(s)
+W - 09:50 am - 12:20 pm Loc: 
+Category
+19
+Course
+LING 114 
+CRN
+20633
+Title
+Introduction to Linguistics
+Credit Hours
+1
+Description
+Designed to familiarize students with some of the essential concepts of linguistic analysis. Suitable problem sets in English and in other languages will provide opportunities to study the basic systems of language organization phonology, morphology, syntax, and semantics. Additional topics include introductions to language organization in the brain, child language acquisition, language change, and language in society.
+Seats Available
+2
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Epistemology and Cognition
+Instructor(s)
+Angela Carpenter
+Meeting Time(s)
+MTh - 02:50 pm - 04:00 pm Loc: 
+Category
+19
+Course
+PSYC 215 
+CRN
+21545
+Title
+Memory
+Credit Hours
+1
+Description
+Introduction to the study of human memory. Examines processes underlying encoding, storage, and retrieval of information. Will review theoretical models focusing on distinctions between different forms of memory, including short-term and long-term memory, implicit and explicit memory, episodic and semantic memory. Factors contributing to forgetting and distortion of memory will also be discussed.
+Seats Available
+0
+Max. Enrollment
+30
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+PSYC 101 or NEUR 100, AP score of 5, or permission of the instructor.
+Distributions
+Epistemology and Cognition
+Social and Behavioral Analysis
+Instructor(s)
+Margaret Keane
+Meeting Time(s)
+W - 02:15 pm - 04:45 pm Loc: 
+Category
+19
+Course
+PHIL 203 
+CRN
+22956
+Title
+Philosophy of Art
+Credit Hours
+1
+Description
+In this course, we will examine a broad set of philosophical questions raised by art. What is art? How do we know what it means (if it does mean anything)? What is beauty? What does it mean to have an aesthetic experience, and what grants an object or activity aesthetic value? What is the relationship between aesthetics and ethics? In exploring these general questions we will consider topics such as taste, horror, mimesis, creativity, forgery, public art, and popular art. We will take into account diverse art forms, including, but not limited to, painting, photography, sculpture, literature, music, film, and dance. We will also consider the place of the aesthetic in nature and everyday experience.
+Seats Available
+3
+Max. Enrollment
+30
+Prerequisite(s)
+Open to first-year students who have taken one course in philosophy and to sophomores, juniors, and seniors without prerequisite.
+Distributions
+Arts, Music, Theatre, Film and Video
+Epistemology and Cognition
+Instructor(s)
+Erich Matthes
+Meeting Time(s)
+MTh - 01:30 pm - 02:40 pm Loc: 
+Category
+19
+Course
+PHIL 216 
+CRN
+20081
+Title
+Logic
+Credit Hours
+1
+Description
+Logic studies the principles of valid, or correct, reasoning. It does this by looking for ways to regiment the relationship between a conclusion and the claims that support it. In this course, we will learn how to translate sentences of English into a symbolic language that brings out their logically relevant properties, and we will study formal methods, methods sensitive only to the form of the arguments, as opposed to their content, that allow us to determine whether the conclusions of arguments follow from their premises. We will conclude by reflecting on the formal system itself. How powerful is it? What are its limitations? and on the relationship between logic and ordinary language. 
+Seats Available
+10
+Max. Enrollment
+40
+Prerequisite(s)
+None
+Distributions
+Epistemology and Cognition
+Instructor(s)
+Mary McGowan
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc: 
+Category
+19
+Course
+CLSC 214 
+CRN
+22877
+Title
+Evolution and Human Behavior
+Credit Hours
+1
+Description
+Evolutionary Psychology is the scientific study of human nature as shaped by natural selection. It is grounded in evolutionary biology and the psychological sciences with connections to disciplines ranging from neuroscience to anthropology and economics. Topics covered will include adaptive solutions to major life challenges including survival, mating, family relations, and group living (e.g., cooperation, aggression, and status).
+Seats Available
+0
+Max. Enrollment
+30
+Prerequisite(s)
+PSYC 101 or NEUR 100, AP score of 5, or permission of the instructor.
+Distributions
+Epistemology and Cognition
+Social and Behavioral Analysis
+Crosslisted Courses:
+PSYC 214 01 - Evolution and Human Behavior
+Instructor(s)
+Margery Lucas
+Meeting Time(s)
+TF - 08:30 am - 09:40 am Loc:
+Category
+21
+Course
+AFR 202 
+CRN
+22816
+Title
+Introduction to African Philosophy
+Credit Hours
+1
+Description
+Initiation into basic African philosophical concepts and principles. The first part of the course deals with a systematic interpretation of such questions as the Bantu African philosophical concept of Muntu and related beliefs, as well as Bantu ontology, metaphysics, and ethics. The second part centers on the relationship between philosophy and ideologies and its implications in Black African social, political, religious, and economic institutions. The approach will be comparative.
+Seats Available
+15
+Max. Enrollment
+30
+Prerequisite(s)
+Open to first-year students who have taken one other course in philosophy and to sophomores, juniors, and seniors without prerequisite.
+Distributions
+Epistemology and Cognition
+Religion, Ethics and Moral Philosophy
+Crosslisted Courses:
+PHIL 202 01 - Intro to African Philosophy
+Instructor(s)
+Ifeanyi Menkiti
+Meeting Time(s)
+MTh - 01:30 pm - 02:40 pm Loc:
+Category
+20
+Course
+PSYC 344 
+CRN
+21058
+Title
+Seminar. Social Imagination
+Credit Hours
+1
+Description
+An examination of the uses and types of imagination in both childhood and adulthood. This course will touch on the mechanics of mental imagery and discuss the ways in which imagery is manifest in cognition and particularly in management of social relationships. Emphasis will be placed on the connections between imagination and emotion, such as in children's enactment of scary or nurturant pretend play. How imagination affects interpersonal interactions will be considered, as will other topics such as children's creation of imaginary companions, imagination as pathology, and individual differences in imagination, imagery of individuals deprived of particular senses, and the influence of imagination on memory.
+Seats Available
+0
+Max. Enrollment
+15
+Permission of Instructor
+By permission of the instructor
+Prerequisite(s)
+Open to juniors and seniors who have taken two 200-level courses, excluding PSYC 205.
+Distributions
+Epistemology and Cognition
+Social and Behavioral Analysis
+Instructor(s)
+Tracy Gleason
+Meeting Time(s)
+T - 01:30 pm - 04:00 pm Loc:
+Category
+20
+Course
+PHIL 103 
+CRN
+20010
+Title
+Self and World: Introduction to Metaphysics and Epistemology
+Credit Hours
+1
+Description
+This course introduces basic philosophical methods and concepts by exploring a variety of approaches to some central philosophical problems. Topics covered include the existence of God, the relation between reason and faith, skepticism and certainty, theories of knowledge, the relation between mind and body, and the compatibility of free will and causal determinism. Readings are drawn from historical and contemporary texts. Discussions and assignments encourage the development of the student's own critical perspective on the problems discussed.
+Seats Available
+20
+Max. Enrollment
+30
+Prerequisite(s)
+None
+Distributions
+Epistemology and Cognition
+Instructor(s)
+Alison McIntyre
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category
+17
+Course
+PHIL 236 
+CRN
+22345
+Title
+Global Justice
+Credit Hours
+1
+Description
+An introduction to recent work in political philosophy on the ethics of international relations. The course will discuss some of the main theoretical approaches to the topic: realism, cosmopolitan egalitarianism, political liberalism, utilitarianism, and nationalism. We will also consider how these different approaches might be applied to some central moral controversies in international politics, including those relating to global poverty, human rights and humanitarian intervention, immigration, climate change, and fair trade.
+Seats Available
+8
+Max. Enrollment
+30
+Prerequisite(s)
+Open to first-year students who have taken one course in philosophy or political science, and to sophomores, juniors, and seniors without prerequisite.
+Distributions
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Helena de Bres
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Category
+17
+Course
+PHIL 256 
+CRN
+22959
+Title
+Ethical Theories
+Credit Hours
+1
+Description
+We all have feelings and opinions about what kinds of behavior are morally right or morally wrong. But how do we develop those intuitions into a coherent and plausible theory that can withstand criticism and be applied consistently across a range of cases? This course will be an examination of historical and contemporary approaches to systematic ethical theorizing. In the course of our inquiry, we will consider such questions as: Are the effects of your actions all that matter morally? Or does what you intend to do matter too? Is there a significant difference between what you intend to do and the consequences you can reasonably foresee? Is there a moral difference between causing harm and allowing someone to be harmed?
+Seats Available
+20
+Max. Enrollment
+30
+Prerequisite(s)
+Open to first-year students who have taken one course in philosophy and to sophomores, juniors and seniors without prerequisite.
+Distributions
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Erich Matthes
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category
+18
+Course
+POL4 241 
+CRN
+22365
+Title
+Modern European Political Thought
+Credit Hours 
+1
+Description
+Study of the development of European political theory from the seventeenth to nineteenth centuries. Among the theorists read are Hobbes, Locke, Rousseau, Burke, and Marx. Emphasis on the logic of each theorist's arguments and on their different understandings of the following concepts and relationships: human nature; individual and society; morality, political economy, and the state; reason, authority, and sovereignty; equality, justice, and freedom. Attention is paid to the historical context within which each theorist writes, and especially to how their works respond to and treat questions of class, race, and colonialism. Attention is also paid to how these works influence and challenge contemporary assumptions, visions, and movements.
+Seats Available
+20
+Max. Enrollment
+35
+Prerequisite(s)
+None
+Distributions
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Laura Grattan
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Category
+18
+Course
+POL4 248 
+CRN
+22976
+Title
+Power and Politics
+Credit Hours
+1
+Description
+An examination of the nature and functioning of power in politics, with an emphasis on the following questions: What is the nature of power and how has it been exercised in political life, both past and present? Who has power and who should have it? Is power primarily wielded by political leaders and bureaucrats, or has the development of new technologies decentralized power? Do the powerless understand and exercise power differently from those who traditionally hold it? Are power and violence inextricably intertwined or are they opposites? Authors include Thucydides, bell hooks, Hannah Arendt, Robert Dahl, Karl Marx, Michel Foucault, Adam Michnik, and Vaclav Havel.
+Seats Available
+11
+Max. Enrollment
+35
+Prerequisite(s)
+One unit in political science, philosophy, or history, or permission of the instructor.
+Distributions
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Roxanne Euben
+Meeting Time(s)
+TF - 09:50 am - 11:00 am Loc:
+Category
+24
+Course
+REL 216 
+CRN
+22987
+Title
+Christian Thought: 100-1500 
+Credit Hours
+1
+Description
+Scripture and tradition, orthodoxy and heresy, good and evil, free will and determinism, monasticism and evangelization, mysticism and crusade: influential thinkers on central concerns of Early, Medieval, and Renaissance/Reformation Christianity. Special attention to the diversity of traditions and practices, including devotion to saints, veneration of icons, and uses of scripture.
+Seats Available
+12
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Sharon Elkins
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+23
+Course
+REL 245 
+CRN
+20847
+Title
+The Holocaust and the Nazi State
+Credit Hours
+1
+Description
+An examination of the origins, character, course, and consequences of Nazi anti-Semitism during the Third Reich. Special attention to Nazi racialist ideology, and how it shaped policies that affected such groups as the Jews, the disabled, the Roma and the Sinti, Poles and Russians, Afro-Germans, homosexuals, and women. Consideration also of the impact of Nazism on the German medical and teaching professions.
+Seats Available
+0
+Max. Enrollment 
+30
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Barbara Geller
+Meeting Time(s)
+W - 02:15 pm - 04:45 pm Loc:
+Category
+21
+Course
+REL 255 
+Title
+Japanese Religion and Culture
+CRN
+22988
+Credit Hours
+1
+Description
+Constancy and change in the history of Japanese religious thought and its cultural and literary expression from the prehistoric "age of the gods" to contemporary Japan. An examination of Japanese indebtedness to, and independence from, Korea and China, assimilation and rejection of the West, and preservation of indigenous tradition. Topics include: Shinto, distinctively Japanese interpretations of Buddhism, neo-Confucianism, their role in modernization and nationalism, Western colonialism, and modern Japanese thought as a crossroad of East and West.
+Seats Available
+17
+Max. Enrollment
+30
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+T. James Kodera
+Meeting Time(s)
+MTh - 01:30 pm - 02:40 pm Loc:
+Category
+17
+Course
+REL 326 
+CRN
+22991
+Title
+Sem: Liberation Theology
+Credit Hours
+1
+Description
+Beginning with Liberation Theology's emergence in the 1970s with Gustavo Gutierrez (Peru), Leonardo Boff (Brazil), and James Cone (United States), this course then considers the reactions of the 1980s (including Jon Sobrino on the El Salvador martyrs) before turning to the theologies of liberation of the later 20th century and early 21st century by ecofeminists (Ivone Gebara of Brazil), mujeristas (Ada Maria Isasi-Diaz), Native Americans (George Tinker), Buddhists (Thich Nhat Hanh), and others.
+Seats Available
+9
+Max. Enrollment
+15
+Prerequisite(s)
+One 200-level course in religion, Latin American studies, or peace and justice studies.
+Distributions
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Sharon Elkins
+Meeting Time(s)
+W - 09:50 am - 12:20 pm Loc:
+Category
+20
+Course
+REL 357 
+CRN
+22992
+Title
+Sem: Issues in Comparative Religion
+Credit Hours
+1
+Description
+Promises and challenges in the evolving debate over how different truth claims and faith communities might seek tolerance, respect, and coexistence. How to reconcile tradition with innovation, doctrine with practice, contemplation with action, globalism with tribalism. Impediments of monotheism and "revealed scripture." The role of religion in prejudice and discrimination; and yet also for peace and justice. The rise of Buddhism in the West and of Christianity in the East. Readings include works by Wilfred Cantwell Smith, John Hick, Uchimura Kanzo, Endo Shusako, Raimundo Panikkar, Thich Nhat Hanh, the Dalai Lama, and Diana Eck.
+Seats Available
+3
+Max. Enrollment
+15
+Prerequisite(s)
+At least one unit in religion.
+Distributions
+Historical Studies
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+T. James Kodera
+Meeting Time(s)
+W - 02:15 pm - 04:45 pm Loc:
+Category
+17
+Course
+WGST 212 
+CRN
+23073
+Title
+Feminist Bioethics
+Credit Hours
+1
+Description
+How would bioethics differ if it took seriously the experiences and needs of women and other marginalized social groups? This course engages the works of feminist theorists and practitioners in philosophy, religion, law, medicine, public health, and the social and biological sciencesâ€�?works that develop more inclusive bioethical theories and practices in the service of the health and well-being of all persons and communities. Feminist bioethics is both critical and constructive in its attention to moral frameworks, principles, norms, and values related to the conditions for human health including health care's professions, practices, and institutions. Also addressed are gender, race, and class disparities in health status, clinical care, and biomedical research.
+Seats Available
+3
+Max. Enrollment
+15
+Prerequisite(s)
+WGST 108, WGST 120, WGST 222, or permission of the instructor.
+Distributions
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Charlene Galarneau
+Meeting Time(s)
+W - 09:50 am - 12:20 pm Loc:
+Category
+2
+Course
+GEOS 316 
+CRN
+22928
+Title
+Paleoseismology
+Credit Hours
+1
+Description
+Recent earthquake and tsunami events dramatically highlight the vulnerability of human populations and infrastructure to seismic hazards. Only a thorough understanding of the frequency and magnitude of such events will enable local communities to prepare for future disasters. The rapidly evolving field of paleoseismology tries to answer such questions as: Where do earthquakes occur? How large might they be? How frequent are they? In this seminar-style class we will discuss literature to examine primary and secondary earthquake-induced deformation in various geologic archives and under different stress regimes. Through exercises and research projects students will learn techniques to assess the seismic hazard and to prepare threatened communities.
+Seats Available
+8
+Max. Enrollment
+14
+Prerequisite(s)
+Any 200-level GEOS course, or permission of the instructor.
+Distributions
+Natural and Physical Science
+Instructor(s)
+Katrin Monecke
+Meeting Time(s)
+Th - 01:30 pm - 04:00 pm Loc:
+Category
+2
+Course
+ES 220 
+CRN
+21650
+Title
+Environmental Limits and Conservation with Laboratory
+Credit Hours
+1.25
+Description
+The growing use of global resources challenges our ability to conserve resources themselves, as well as species, ecosystems, and environmental quality. This brings up fundamental questions regarding limits to the sustainability of human and natural systems. This course investigates these far-reaching concepts by examining topics such as fundamentals and implications of thermodynamics, energy and material flow through human and natural systems, conservation of resources and biodiversity, and natural resource management. We will also explore the role of science and technology in surmounting previous limits (e.g. energy consumption and agricultural yields), as well as the implications of inherent limits that may never be broken. Laboratory work will focus on quantitative skills and tools used to assess the sustainability of different systems.
+Seats Available
+5
+Max. Enrollment
+20
+Prerequisite(s)
+One of the following: ES 101, GEOS 101, GEOS 102, BISC 108, or permission of the instructor.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Instructor(s)
+Alden Griffith
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Category
+5
+Course
+MATH 210 
+CRN
+20840
+Title
+Differential Equations
+Credit Hours
+1
+Description
+Introduction to theory and solution of ordinary differential equations, with applications to such areas as physics, ecology, and economics. Includes linear and nonlinear differential equations and equation systems, existence and uniqueness theorems, and such solution methods as power series, Laplace transform, and graphical and numerical methods.
+Seats Available
+2
+Max. Enrollment
+25
+Prerequisite(s)
+MATH 205. At most two of the three courses MATH 206, MATH 210, and MATH 215 can be counted toward the major or minor.
+Distributions
+Mathematical Modeling
+Instructor(s)
+Oscar Fernandez
+Meeting Time(s)
+MWTh - 08:30 am - 09:40 am Loc:
+Category
+5
+Course
+PHYS 108 
+CRN
+20149
+Title
+Principles and Applications of Electricity, Magnetism, and Optics with Laboratory
+Credit Hours
+1.25
+Description
+The electromagnetic force, one of the fundamental interactions in nature, is responsible for a remarkably wide range of phenomena and technologies, from the structures of atoms and molecules to the transmission of nerve impulses and the characteristics of integrated circuits. This introductory course begins with the study of Coulomb's law of electrostatics and progresses through investigations of electric fields, electric potential energy, magnetic fields, and Faraday's law of magnetic induction. The course culminates in the study of light, where the deep connections between electricity and magnetism are highlighted. Geometrical optics and an introduction to interference effects caused by the electromagnetic wave nature of light are covered. Laboratories, a central part of the course, provide students with hands-on experiences with electronics and electronic and optical instruments.
+Seats Available
+5
+Max. Enrollment
+40
+Prerequisite(s)
+PHYS 107 (or PHYS 104 and permission of the instructor), and MATH 116 or MATH 120. Not open to students who have taken PHYS 106.
+Distributions
+Mathematical Modeling
+Natural and Physical Science
+Instructor(s)
+Robert Berg
+Meeting Time(s)
+TWF - 09:50 am - 11:00 am Loc:
+Category
+6
+Course
+MATH 223 
+CRN
+20621
+Title
+Number Theory
+Credit Hours
+1
+Description
+Number theory is the study of the most basic mathematical objects: the natural numbers (1, 2, 3, etc.). It begins by investigating simple patterns: for instance, which numbers can be written as sums of two squares? Do the primes go on forever? How can we be sure? The patterns and structures that emerge from studying the properties of numbers are so elegant, complex, and important that number theory has been called "the Queen of Mathematics." Once studied only for its intrinsic beauty, number theory has practical applications in cryptography and computer science. Topics include the Euclidean algorithm, modular arithmetic, Fermat's and Euler's Theorems, public-key cryptography, quadratic reciprocity. MATH 223 has a focus on learning to understand and write mathematical proofs; it can serve as valuable preparation for MATH 305.
+Seats Available
+9
+Max. Enrollment
+25
+Prerequisite(s)
+MATH 116, MATH 120, or the equivalent; or CS 230 together with permission of the instructor. The fall section of MATH 223 is a First-Year Seminar, reserved for first-year students.
+Distributions
+Mathematical Modeling
+Instructor(s)
+Ann Trenk
+Meeting Time(s)
+TWF - 09:50 am - 11:00 am Loc:
+Category
+6
+Course
+MATH 220 
+CRN
+20135
+Title
+Probability and Elementary Statistics
+Credit Hours
+1
+Description
+This course is about the mathematics of uncertainty, where we use the ideas of probability to describe patterns in chance phenomena. Probability is the basis of statistics and game theory, and is immensely useful in many fields including business, social and physical sciences, and medicine. The first part of the course focuses on probability theory (random variables, conditional probability, probability distributions), using integration and infinite series. The second part discusses topics from statistics (sampling, estimation, confidence interval, hypothesis testing). Applications are taken from areas such as medical diagnosis, quality control, gambling, political polls, and others.
+Seats Available
+2
+Max. Enrollment
+25
+Prerequisite(s)
+MATH 205. Open to students with a strong background in single-variable calculus (MATH 116, MATH 120, or the equivalent) by permission of the instructor.
+Distributions
+Fulfills the Quantitative Reasoning overlay course requirement
+QRF
+Mathematical Modeling
+Instructor(s)
+Martin Magid
+Meeting Time(s)
+TWF - 09:50 am - 11:00 am Loc:

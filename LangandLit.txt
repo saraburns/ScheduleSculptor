@@ -1,0 +1,504 @@
+FREN 102 - 01
+CRN
+20001
+Title
+Beginning French II
+Credit Hours
+1
+Description
+Systematic training in all the language skills, with special emphasis on communication, self-expression, and cultural insights. A multimedia course based on the video series French in Action. Classes are supplemented by regular assignments in a variety of video, audio, print, and Web-based materials to give students practice using authentic French accurately and expressively. Three periods.
+Seats Available
+2
+Max. Enrollment
+20
+Prerequisite(s)
+Open to students who do not present French for admission or by permission of the instructor.
+Distributions
+None
+Notes
+Each semester of FREN 101 and FREN 102 earns one unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Sylvaine Egron-Sparrow
+Meeting Time(s)
+MWTh - 09:50 am - 11:00 am Loc: 
+Course
+GER 102 - 01
+CRN
+20007
+Title
+Beginning German
+Credit Hours
+1
+Description
+An introduction to contemporary German with emphasis on communicative fluency. Extensive practice in all four skills: listening, speaking, reading, and writing. Videos and Web-based activities introduce the student to topics from contemporary culture in German-speaking countries.
+Seats Available
+18
+Max. Enrollment
+25
+Prerequisite(s)
+GER 101
+Distributions
+None
+Notes
+Each semester of GER 101 and GER 102 earns one unit of credit. Both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Thomas Hansen
+Meeting Time(s)
+MWTh - 09:50 am - 11:00 am Loc:
+Course
+ENG 203 - 01
+CRN
+20046
+Title
+Short Narrative
+Credit Hours
+1
+Description
+A workshop in the writing of the short story; frequent class discussion of student writing, with some reference to established examples of the genre. Enrollment is limited to 15 students.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Notes
+Mandatory credit/noncredit. Students who have taken this course once may register for it one additional time.
+Instructor(s)
+James Wallenstein
+Meeting Time(s)
+MTh - 02:50 pm - 04:00 pm Loc:
+Course
+CLCV 104 - 01
+CRN
+22869
+Title
+Classical Mythology
+Credit Hours
+1
+Description
+Achilles' heel, the Trojan Horse, Pandora's Box, an Oedipal complex, a Herculean task—themes and figures from classical mythology continue to play an important role in our everyday life. We will read the original tales of classical heroes and heroines together with more modern treatments in film and literature. Why do these stories continue to engage, entertain, and even shock us? What is the nature and power of myth? Readings from ancient sources in English translation.
+Seats Available
+0
+Max. Enrollment
+55
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Religion, Ethics and Moral Philosophy
+Instructor(s)
+Bryan Burns
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Course
+HEBR 102 - 01
+CRN
+20205
+Title
+Elementary Hebrew
+Credit Hours
+1
+Description
+Introduction to Hebrew with emphasis on its contemporary spoken and written form. Practice in the skills of listening and speaking as well as reading and writing, together with systematic study of Hebrew grammar. Students will master a basic vocabulary of approximately 1,000 words, and become comfortable in the use of the present, past, and future tenses, as well as basic verb patterns.
+Seats Available
+10
+Max. Enrollment
+12
+Prerequisite(s)
+None
+Distributions
+None
+Notes
+Each semester of HEBR 101 and HEBR 102 earns one unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Anna Grinfeld
+Meeting Time(s)
+MWTh - 09:50 am - 11:00 am Loc:
+Course
+ARAB 102 - 01
+CRN
+20658
+Title
+Elementary Arabic
+Credit Hours
+1
+Description
+An introduction to the Arabic language. The course takes a comprehensive approach to language learning and emphasizes the four skills of listening, speaking, reading, and writing. Students are introduced to the principles of grammar, taught how to read and write in the Arabic alphabet, and trained in the basics of everyday conversation. Through the use of a variety of written, video, and audio materials, as well as other resources made available through the Web, the course emphasizes authentic materials and stresses the active participation of students in the learning process.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+ARAB 101
+Distributions
+None
+Notes
+Each semester of ARAB 101 and ARAB 102 earns 1.0 unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Yasmine Ramadan
+Meeting Time(s)
+MTWTh - 08:30 am - 09:40 am Loc:
+Course
+HNUR 102 - 01
+CRN
+21018
+Title
+Elementary Hindi/Urdu
+Credit Hours
+1
+Description
+An introduction to the most widely spoken language in the South Asian subcontinent, which is also used extensively for interregional and international communications. Learning this language provides a linguistic passport to things South Asian. The language—often referred to as "Hindustani"—is written in two different scripts: the Perso-Arabic based Urdu, and the Sanskrit based Devanagari (Hindi). Students will learn to converse in the language and to read and write in both scripts. Conventional teaching materials will be supplemented by popular songs and clips from contemporary Indian cinema and television, the two internationally popular media that use this language.
+Seats Available
+4
+Max. Enrollment
+12
+Prerequisite(s)
+HNUR 101
+Distributions
+None
+Notes
+Each semester of HNUR 101 and HNUR 102 earns one unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Neelima Shukla-Bhatt
+Meeting Time(s)
+TWF - 08:30 am - 09:40 am Loc:
+Course
+CHIN 102 - 01
+CRN
+20004
+Title
+Beginning Chinese
+Credit Hours
+1.25
+Description
+An introductory course that teaches the skills of listening comprehension, speaking, reading, and writing in Mandarin Chinese. Emphasis is on pronunciation, vocabulary, grammar, and communication. Computer programs for pronunciation, listening comprehension, grammar, and writing Chinese characters will be used extensively. Four 70-minute classes plus one 30-minute small-group session.
+Seats Available
+3
+Max. Enrollment
+15
+Prerequisite(s)
+None. Open only to students with no Chinese language background.
+Distributions
+None
+Notes
+Each semester of CHIN 101 and CHIN 102 earns 1.25 units of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Qiuyan Tang
+Meeting Time(s)
+MTWTh - 08:30 am - 09:40 am Loc:
+Course
+JPN 102 - 01
+CRN
+20220
+Title
+Beginning Japanese
+Credit Hours
+1.25
+Description
+Introduction to the modern standard Japanese language. Emphasis on developing proficiency in listening, speaking, reading, and writing, using basic expressions and sentence patterns. Four 70-minute classes plus one 30-minute small group session.
+Seats Available
+1
+Max. Enrollment
+15
+Prerequisite(s)
+None
+Distributions
+None
+Notes
+Each semester of JPN 101 and JPN 102 earns 1.25 unit of credit; however, both semesters must be completed satisfactorily to receive credit for either course.
+Instructor(s)
+Yoshimi Maeno,Kazuko Ozawa
+Meeting Time(s)
+MTWTh - 08:30 am - 09:40 am Loc:
+Course
+CHIN 208 - 01
+CRN
+22889
+Title
+Writing Modern China (in English)
+Credit Hours
+1
+Description
+Over the course of the twentieth century, China underwent enormous changes in the sweep of modernization, which opened the door to a wealth of experimentation, especially in literature and culture. The primary focus of this course is to explore how literary forms adapted to the dominant political and cultural movements of modern China. At the same time, individual Chinese writers crafted unique visions from their experiences "on the ground." In works that date from the late Qing to the present, we will explore the varied representations of Chinese modernity, including topics, such as the individual and society, revolution and tradition, the countryside and the city, gender and sexuality. No prior knowledge of Chinese literature or Chinese language is required.
+Seats Available
+10
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Historical Studies
+Language and Literature
+Instructor(s)
+Mingwei Song
+Meeting Time(s)
+MTh - 01:30 pm - 02:40 pm Loc:
+Course
+ENG 120 - 01
+CRN
+22300
+Title
+Critical Interpretation
+Credit Hours
+1
+Description
+English 120 introduces students to a level of interpretative sophistication and techniques of analysis essential not just in literary study but in all courses that demand advanced engagement with language. Sections perform detailed readings in the principal literary genres, studying a selection of poems, a play, and prose narrative. Sustained attention is given to improving student writing. Required of English majors and minors, 120 fosters intellectual community among its students by teaching some texts common to all sections and keying them to campus events including performances of the year’s play by London actors, film screenings, lunchtime lectures by 120 faculty, and other occasions for discussion and collaboration. The play for 2013-14 is Shakespeare’s Othello; the fiction component is Jane Austen's Persuasion.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+None. Primarily designed for, and required of, English majors. Ordinarily taken in first or sophomore year.
+Distributions
+Language and Literature
+Notes
+ENG 120 is also taught as part of the First-Year Writing program. Two of these combined sections are offered each semester, and open to first-year students only. A course description can be found below as WRIT 105, and in the Writing Program curriculum.
+Instructor(s)
+Daniel Chiasson
+Meeting Time(s)
+MTh - 08:30 am - 09:40 am Loc:
+Course
+ENG 120 - 02
+CRN
+22448
+Title
+Critical Interpretation
+Credit Hours
+1
+Description
+English 120 introduces students to a level of interpretative sophistication and techniques of analysis essential not just in literary study but in all courses that demand advanced engagement with language. Sections perform detailed readings in the principal literary genres, studying a selection of poems, a play, and prose narrative. Sustained attention is given to improving student writing. Required of English majors and minors, 120 fosters intellectual community among its students by teaching some texts common to all sections and keying them to campus events including performances of the year’s play by London actors, film screenings, lunchtime lectures by 120 faculty, and other occasions for discussion and collaboration. The play for 2013-14 is Shakespeare’s Othello; the fiction component is Jane Austen's Persuasion.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+None. Primarily designed for, and required of, English majors. Ordinarily taken in first or sophomore year.
+Distributions
+Language and Literature
+Notes
+ENG 120 is also taught as part of the First-Year Writing program. Two of these combined sections are offered each semester, and open to first-year students only. A course description can be found below as WRIT 105, and in the Writing Program curriculum.
+Instructor(s)
+Timothy Peltason
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Course
+AMST 364 - 01
+CRN
+22822
+Title
+Race and Ethnicity in Literature
+Credit Hours
+1
+Description
+Topic for 2013-14: Twenty-First Century American Literature of Immigration and Diaspora
+This course explores the exciting new literature produced by writers transplanted to the United States. We'll consider how the perspectives of recent immigrants redefine what is American by sustaining linkages across national borders, and we'll examine issues of hybrid identity and multiple allegiances, collective memory, traumatic history, nation, home and homeland, and globalization. Our course materials include novels, essays, and films. We'll be looking at writers in the United States with cultural connections to Egypt, Nigeria, Dominican Republic, India, Greece, Vietnam, Bosnia, Ethiopia, Korea, and Mexico. Some authors to be included: André Aciman, Teju Cole, Junot Díaz, Kiran Desai, Lê Thi Diem Thúy, Jeffrey Eugenides, Aleksandar Hemon, Dinaw Mengestu, and Téa Obreht.
+Seats Available
+0
+Max. Enrollment
+20
+Prerequisite(s)
+Open to juniors and seniors who have taken two literature courses in the department, at least one of which must be 200 level, or by permission of the instructor to other qualified students.
+Distributions
+Language and Literature
+Crosslisted Courses:
+ENG 364 01 - Tpc: 21st Cntry Amer Lit
+Instructor(s)
+Kathleen Brogan
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Course
+AMST 212 - 01
+CRN
+22224
+Title
+Korean American Literature and Culture
+Credit Hours
+1
+Description
+What is Korean American Literature and what is the justification for setting it apart from the rest of Asian American literature? The course approaches this question by taking up a range of fictional and dramatic writings, almost all of which were turned out between 1995 and 2012. Many writings not on the syllabus will also be introduced, in order to convey a broader picture. Films on Korean Americans help us look beyond literature per se to a wider cultural perspective. As the semester evolves we will continue to keep an eye on the range of styles, issues, and silences that characterize this field. We will also consider how Korean American literature relates to other literary traditions, such as modern Korean literature and Asian American literature. Finally, we will take up the problem of language: the ways in which English is used to evoke a specifically Korean American idiom and the contrary process through which certain Korean American works reach beyond the “ethnic” designation and into the mainstream. By the end of the semester we will have assembled some tools for deciding whether a piece of literature qualifies as “Korean American.”
+Seats Available
+13
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Instructor(s)
+Ellen Widmer
+Meeting Time(s)
+MTh - 01:30 pm - 02:40 pm Loc:
+Course
+AMST 286 - 01
+CRN
+21425
+Title
+Radical Voyagers: Queer Literature in an American and Global Context
+Credit Hours
+1
+Description
+This course will explore the development of American and transnational LGBTQ literature from the nineteenth century to the present in the context of U.S. and global transformations of society, politics, and consciousness. The course will introduce elements of "queer theory" and gender theory; it will address historical and present-day constructions of sexuality primarily through works of poetry, autobiography, and fiction. Readings will include such writers as Walt Whitman, Henry James, Willa Cather, James Baldwin, Audre Lorde, Adrienne Rich, Gloria Anzaldúa, and Leslie Feinberg.
+Seats Available
+20
+Max. Enrollment
+30
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Crosslisted Courses:
+ENG 286 01 - Radical Voyagers
+Instructor(s)
+Paul Fisher
+Meeting Time(s)
+MTh - 11:10 am - 12:20 pm Loc:
+Course
+ENG 271 - 01
+CRN
+21163
+Title
+Topics in Eighteenth-Century Fiction
+Credit Hours
+1
+Description
+Topic for 2013-14: Novels of the Open Road
+Novels have a long association with wandering. From Don Quixote onward, characters ride, walk, run, or stumble along roads whose destinations are not always clear. But their reasons for doing so are as varied as their goals. This course examines who moves where and why in novels of the eighteenth century. Are characters seeking adventure or simply survival? Are they running away or toward something? How do gender and class affect one's ability to move? Authors are likely to include Defoe, Richardson, Fielding, Smollett, Charlotte Smith, and Austen.
+Seats Available
+24
+Max. Enrollment
+30
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Instructor(s)
+Yoon Lee
+Meeting Time(s)
+TF - 02:50 pm - 04:00 pm Loc:
+Course
+WRIT 225 - 02
+CRN
+22188
+Title
+Nonfiction Writing
+Credit Hours
+1
+Description
+Topic for 2013-14: Writing the Travel Essay
+Taken a trip lately—junior year abroad, summer vacation, spring break? Looked back fondly or in horror at a family road trip? Turn your experience into a travel essay. We will be studying both the genre of the literary travel essay as well as the more journalistic travel writing found in newspaper travel sections and travel magazines. And, of course, we will be writing our own travel narratives. The course focuses on the essentials of travel writing: evocation of place, a sophisticated appreciation of cultural differences, a considered use of the first person (travel narratives are closely related to the genre of memoir), and basic strong writing/research skills.
+Seats Available
+1
+Max. Enrollment
+15
+Prerequisite(s)
+Fulfillment of the First-Year Writing requirement.
+Distributions
+Language and Literature
+Notes
+WRIT 225/ENG 206 is a changing topics writing workshop that will each year take up a particular nonfiction writing genre. Open to students who have fulfilled the First-Year Writing requirement; please note that this course is not intended as a substitute for the First-Year Writing requirement. Enrollment is limited to 15 students. Mandatory credit/noncredit.
+Crosslisted Courses:
+ENG 206 02 - Tpc: Writing the Travel Essay
+Instructor(s)
+Marilyn Sides
+Meeting Time(s)
+TF - 08:30 am - 09:40 am Loc:
+Course
+WGST 120 - 01
+CRN
+21020
+Title
+Introduction to Women's and Gender Studies
+Credit Hours
+1
+Description
+Introduction to the interdisciplinary field of women's and gender studies with an emphasis on an understanding of the "common differences" that both unite and divide women. Beginning with an examination of how womanhood has been represented in myths, ads, and popular culture, the course explores how gender inequalities have been both explained and critiqued. The cultural meaning given to gender as it intersects with race, class, ethnicity, and sexuality will be studied. This course also exposes some of the critiques made by women's studies' scholars of the traditional academic disciplines and the new intellectual terrain currently being mapped.
+Seats Available
+0
+Max. Enrollment
+25
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Social and Behavioral Analysis
+Instructor(s)
+Elena Creef
+Meeting Time(s)
+TF - 01:30 pm - 02:40 pm Loc:
+Course
+ITAS 274 - 01
+CRN
+22325
+Title
+Women in Love: Portraits of Female Desire in Italian Culture
+Credit Hours
+1
+Description
+This course is dedicated to the representation of female desire in Italian culture. From Dante's Francesca da Rimini to Pasolini's Medea, passing through renowned literary characters such as Goldoni's Mirandolina, Manzoni's Gertrude, and Verdi's Violetta, the course will explore different and contrasting voices of female desire: unrequited and fulfilled, passionate and spiritual, maternal and destructive, domestic and transgressive. In particular, the varied and beautiful voices of women in love will become privileged viewpoints to understand the changes that occur in Italian culture in the conception of desire and other intimate emotions, as well as in the notion of gender and sexuality. Students will read texts by men and women from a wide variety of literary genres and artistic forms including not only prose and poetry, but also theatre, opera, and cinema. They will also read important theoretical essays on the conception of love in Western cultures by Barthes, de Rougemont, Giddens, and Nussbaum.
+Seats Available
+19
+Max. Enrollment
+25
+Prerequisite(s)
+ITAS 202 or ITAS 201.
+Distributions
+Language and Literature
+Instructor(s)
+Sergio Parussa
+Meeting Time(s)
+TF - 11:10 am - 12:20 pm Loc:
+Course
+ENG 114 - 01
+CRN
+22906
+Title
+Topics in American Literature
+Credit Hours
+1
+Description
+American literature contains an astonishing myriad of voices and forms. This changing topics course introduces students to highlights and countercurrents of the American tradition.
+Topic for 2013-14: A Woman of Independent Means
+As with all cultural productions, literary works do not simply reflect reality; they also help to create it. In this course we will read nineteenth- and twentieth-century American literature that endeavors to imagine “a life beyond” traditional social roles for American women. Can a woman write herself (or be written) beyond the confines of slavery, the limitations of the “marriage plot," or the expectations of her cultural inheritance? How has the image of the independent woman in fiction evolved from The Coquette to The Woman Warrior? We will read well-known authors such as Henry James, Emily Dickinson, and Toni Morrison in addition to less canonical writers such as Susan Warner and Hannah Webster Foster. Assignments will include quizzes, a midterm, a final, and a few short response essays.
+Seats Available
+44
+Max. Enrollment
+60
+Prerequisite(s)
+None
+Distributions
+Language and Literature
+Instructor(s)
+Margery Sokoloff
+Meeting Time(s)
+MTh - 09:50 am - 11:00 am Loc:
+Course
+ENG 204 - 01
+CRN
+20622
+Title
+The Art of Screenwriting
+Credit Hours
+1
+Description
+A creative writing course in a workshop setting for those interested in the theory and practice of writing for film. This course focuses on the full-length feature film, both original screenplays and screen adaptations of literary work. Enrollment is limited to 15 students.
+Seats Available
+0
+Max. Enrollment
+15
+Prerequisite(s)
+None
+Distributions
+Arts, Music, Theatre, Film and Video
+Language and Literature
+Notes
+Mandatory credit/noncredit. Students who have taken this course once may register for it one additional time.
+Crosslisted Courses:
+CAMS 234 01 - The Art of Screenwriting
+Instructor(s)
+James Wallenstein
+Meeting Time(s)
+W - 09:50 am - 12:20 pm Loc:
+
+

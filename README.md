@@ -4,7 +4,7 @@ ScheduleSculptor
 A tool for students to build possible schedules and receive convenient course recommendations
 
 Have you ever been frustrated trying to build a schedule for next semester? Most likely, the answer is yes. There is no easy to use tool available from Wellesley including Wellesley courses. Luckily, The Schedule Sculptor is here to help!
-Please run the file “ScheduleSculptGUI.java” in order to access the Schedule Sculptor.
+Please download the zip file and run the file “ScheduleSculptGUI.java” in order to access the Schedule Sculptor.
 
 1.) To get started, browse courses in the Add Course tab. You can search over 100 real Wellesley courses offered in Spring 2014. Search by Department, Distribution, or Time, or any combination of the three. Browse results in the list below. To find out more information about a course, simply select it. If you decide you’d like this course in your schedule, press “Add to Schedule.”
 
